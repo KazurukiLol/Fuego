@@ -1427,3 +1427,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [18Dec2024 22:42:23.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned in shadowflame
 [18Dec2024 22:42:29.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
 [18Dec2024 22:42:32.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[18Dec2024 22:46:27.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanity15[/172.30.33.100:58690] logged in with entity id 4355 at (-619.4516564364553, 80.875, -4750.810360813738)
+[18Dec2024 22:46:27.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 joined the game
+[18Dec2024 22:46:33.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18Dec2024 22:46:42.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11010ms or 220 ticks behind
+[18Dec2024 22:46:43.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 22:46:43.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! -10.212594738541611,-1.176759275064235,-0.6523661907381211
+[18Dec2024 22:47:01.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[18Dec2024 22:47:34.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17610ms or 352 ticks behind
+[18Dec2024 22:48:17.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[18Dec2024 22:48:38.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has reached the goal [Gambling Problem]
+[18Dec2024 22:48:59.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 burned to ashes
+[18Dec2024 22:49:10.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 burned to ashes
+[18Dec2024 22:50:02.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has completed the challenge [Lucky Sevens]
+[18Dec2024 22:50:14.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Kazuruki: Location (347.5709035396576, -51.0, -3655.459587574005) too far away from hit block BlockPos{x=347, y=-53, z=-3656}.
