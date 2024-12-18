@@ -6905,6 +6905,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-18 23:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2024-12-18 22:49:52 +0000"
@@ -6947,6 +6953,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2024-12-18 23:43:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-12-18 22:47:41 +0000"
@@ -6958,6 +6970,12 @@
       "warden_soul_advancement_0": "2024-12-18 23:34:03 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-18 23:37:56 +0000"
+    },
+    "done": false
   },
   "croptopia:recipes/misc/orange_juice": {
     "criteria": {

@@ -1549,3 +1549,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [18Dec2024 23:40:32.635] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [18Dec2024 23:40:32.635] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [18Dec2024 23:40:32.636] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:36.028] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:36.029] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:36.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Adrian DraxWind
+[18Dec2024 23:40:38.917] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:38.918] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:38.919] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:38.919] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:38.920] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:49.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Skeleton
+[18Dec2024 23:41:11.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Flint and Steel] to Kazuruki]
+[18Dec2024 23:41:28.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 23:41:45.016] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:41:45.017] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:41:45.018] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:41:45.018] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:42:25.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Mister Darla'/47630, l='ServerLevel[world]', x=3958.70, y=-45.00, z=2302.67] died: Mister Darla was slain by Chik3nBl4ck
+[18Dec2024 23:43:13.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 23:43:16.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 23:43:31.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 23:43:33.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[18Dec2024 23:43:46.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[18Dec2024 23:45:01.127] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:45:01.129] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:45:01.130] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:45:01.130] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:45:01.131] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:45:41.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 1000]
+[18Dec2024 23:45:41.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18Dec2024 23:46:00.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3879ms or 77 ticks behind
+[18Dec2024 23:46:17.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[18Dec2024 23:46:21.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was obliterated by a sonically-charged shriek whilst trying to escape Zombie
+[18Dec2024 23:46:37.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was blown up by Creeper
+[18Dec2024 23:46:40.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was shot by Skeleton
+[18Dec2024 23:46:49.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Castle guard
+[18Dec2024 23:46:58.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Castle guard
+[18Dec2024 23:47:01.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Skeleton
+[18Dec2024 23:47:07.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Skeleton
+[18Dec2024 23:47:08.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Skeleton
+[18Dec2024 23:47:10.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Skeleton
+[18Dec2024 23:47:15.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Kazuruki
+[18Dec2024 23:47:16.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was obliterated by a sonically-charged shriek whilst trying to escape Kazuruki
+[18Dec2024 23:47:18.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved wrongly!
+[18Dec2024 23:47:19.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Kazuruki scorched Sanity15
+[18Dec2024 23:47:26.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 burned to ashes
+[18Dec2024 23:47:28.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 burned to ashes
+[18Dec2024 23:47:30.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Zombie
+[18Dec2024 23:47:31.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Skeleton
+[18Dec2024 23:47:48.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Skeleton
+[18Dec2024 23:47:51.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Skeleton
+[18Dec2024 23:47:51.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Skeleton
+[18Dec2024 23:47:52.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Skeleton
+[18Dec2024 23:47:53.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[18Dec2024 23:47:57.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[18Dec2024 23:48:09.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. After Chik3nBl4ck was slain by Kazuruki, they gave up
+[18Dec2024 23:48:37.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved wrongly!
+[18Dec2024 23:48:46.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[18Dec2024 23:48:50.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Corpse Maggot
+[18Dec2024 23:49:02.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[18Dec2024 23:49:08.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Kazuruki
+[18Dec2024 23:49:35.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[18Dec2024 23:50:02.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Flint and Steel] to Kazuruki]
+[18Dec2024 23:50:46.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck lost connection: Disconnected
+[18Dec2024 23:50:46.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck left the game
+[18Dec2024 23:51:02.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
