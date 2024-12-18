@@ -1469,3 +1469,83 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [18Dec2024 23:17:50.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
 [18Dec2024 23:17:58.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Harvester] to Kazuruki]
 [18Dec2024 23:18:20.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 23:20:38.599] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[18Dec2024 23:21:21.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
+[18Dec2024 23:22:06.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Kazuruki]
+[18Dec2024 23:25:31.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set Sanity15's game mode to Creative Mode]
+[18Dec2024 23:26:08.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Sneak 100]
+[18Dec2024 23:27:41.651] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Dec2024 23:28:53.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has completed the challenge [It Spreads]
+[18Dec2024 23:31:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 23:31:27.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 1000]
+[18Dec2024 23:31:28.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[18Dec2024 23:31:29.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was obliterated by a sonically-charged shriek
+[18Dec2024 23:31:46.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was obliterated by a sonically-charged shriek
+[18Dec2024 23:32:27.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set lunar event to "enhancedcelestials:super_blood_moon"]
+[18Dec2024 23:32:40.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Night Vision to Kazuruki]
+[18Dec2024 23:32:41.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was obliterated by a sonically-charged shriek
+[18Dec2024 23:32:44.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[18Dec2024 23:32:47.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18Dec2024 23:32:54.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 23:32:58.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 23:33:02.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was obliterated by a sonically-charged shriek
+[18Dec2024 23:33:02.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18Dec2024 23:33:02.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3676ms or 73 ticks behind
+[18Dec2024 23:33:08.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Night Vision to Kazuruki]
+[18Dec2024 23:33:10.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Zombie
+[18Dec2024 23:33:12.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[18Dec2024 23:33:19.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 23:33:21.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3684ms or 73 ticks behind
+[18Dec2024 23:33:30.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18Dec2024 23:33:32.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 23:33:40.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4184ms or 83 ticks behind
+[18Dec2024 23:34:00.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4362ms or 87 ticks behind
+[18Dec2024 23:34:03.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has completed the challenge [The Dark Soul]
+[18Dec2024 23:34:18.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3246ms or 64 ticks behind
+[18Dec2024 23:34:19.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[18Dec2024 23:34:21.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 23:34:24.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 23:34:36.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2867ms or 57 ticks behind
+[18Dec2024 23:34:54.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2996ms or 59 ticks behind
+[18Dec2024 23:34:59.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 23:35:12.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Regeneration to 3 targets]
+[18Dec2024 23:35:13.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3887ms or 77 ticks behind
+[18Dec2024 23:35:15.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 23:35:22.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[18Dec2024 23:35:34.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6916ms or 138 ticks behind
+[18Dec2024 23:35:47.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 1000]
+[18Dec2024 23:35:56.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7100ms or 142 ticks behind
+[18Dec2024 23:36:09.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 fell from a high place
+[18Dec2024 23:36:16.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4615ms or 92 ticks behind
+[18Dec2024 23:36:59.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Flint and Steel] to Kazuruki]
+[18Dec2024 23:37:08.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Skeleton
+[18Dec2024 23:37:14.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Honeyed Archer
+[18Dec2024 23:37:17.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Honeyed Archer
+[18Dec2024 23:37:19.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Honeyed Archer
+[18Dec2024 23:37:23.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Honeyed Archer
+[18Dec2024 23:37:25.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Honeyed Archer
+[18Dec2024 23:37:34.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/38123, l='ServerLevel[world]', x=-571.82, y=67.00, z=-4712.30] died: Honeyed Archer was slain by Kazuruki
+[18Dec2024 23:37:51.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18Dec2024 23:37:56.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Quite the Renovation]
+[18Dec2024 23:37:56.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 23:38:10.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Spectator Mode]
+[18Dec2024 23:38:24.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18Dec2024 23:38:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 23:39:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has completed the challenge [The Dark Soul]
+[18Dec2024 23:39:15.862] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:39:15.866] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:39:24.823] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:39:24.824] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:39:28.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Captured!]
+[18Dec2024 23:39:41.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18Dec2024 23:39:41.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[18Dec2024 23:40:05.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18Dec2024 23:40:32.400] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:32.401] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:32.401] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:32.402] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:32.402] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:32.634] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:32.635] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:32.635] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 23:40:32.636] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'

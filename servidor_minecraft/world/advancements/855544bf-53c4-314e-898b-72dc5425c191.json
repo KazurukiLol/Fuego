@@ -6953,6 +6953,12 @@
     },
     "done": true
   },
+  "terramity:warden_soul_advancement": {
+    "criteria": {
+      "warden_soul_advancement_0": "2024-12-18 23:34:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/orange_juice": {
     "criteria": {
       "has_orange": "2024-12-18 23:09:32 +0000"
