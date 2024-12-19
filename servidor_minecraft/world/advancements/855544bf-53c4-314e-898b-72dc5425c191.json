@@ -6996,5 +6996,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-19 23:19:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

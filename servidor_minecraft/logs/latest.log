@@ -5148,3 +5148,130 @@ java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "messag
 [19Dec2024 23:10:28.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
 [19Dec2024 23:10:37.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Vampire Blood] to Kazuruki]
 [19Dec2024 23:11:56.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[19Dec2024 23:12:09.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[19Dec2024 23:12:32.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 4.491944041083798,0.5266593749554431,-9.04610605717221
+[19Dec2024 23:12:33.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8796ms or 175 ticks behind
+[19Dec2024 23:12:35.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Kazuruki]
+[19Dec2024 23:12:40.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved wrongly!
+[19Dec2024 23:12:51.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3951ms or 79 ticks behind
+[19Dec2024 23:12:54.440] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d04a88b[id=<null>,name=Graniter82a,properties={},legacy=false] (/172.30.89.163:60968) lost connection: Timed out
+[19Dec2024 23:13:21.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Ingot] to Kazuruki]
+[19Dec2024 23:13:38.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Ingot] to Kazuruki]
+[19Dec2024 23:13:38.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Ingot] to Kazuruki]
+[19Dec2024 23:13:38.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Ingot] to Kazuruki]
+[19Dec2024 23:13:39.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Ingot] to Kazuruki]
+[19Dec2024 23:14:00.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Kazuruki is now a Hunter level 4]
+[19Dec2024 23:14:05.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[19Dec2024 23:14:14.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19Dec2024 23:14:19.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Ingot] to Kazuruki]
+[19Dec2024 23:14:19.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Ingot] to Kazuruki]
+[19Dec2024 23:14:19.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Ingot] to Kazuruki]
+[19Dec2024 23:14:20.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Ingot] to Kazuruki]
+[19Dec2024 23:14:20.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Ingot] to Kazuruki]
+[19Dec2024 23:14:30.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Hunter Intel] to Kazuruki]
+[19Dec2024 23:14:45.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Panez the Morbius'/56534, l='ServerLevel[world]', x=3992.56, y=-50.00, z=2404.70] died: Panez the Morbius was slain by Chik3nBl4ck
+[19Dec2024 23:14:53.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Hunter Intel] to Kazuruki]
+[19Dec2024 23:15:18.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[19Dec2024 23:15:25.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to -622.500000, 68.500000, -4750.500000]
+[19Dec2024 23:16:09.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to 1861.500000, 73.500000, -2046.500000]
+[19Dec2024 23:16:16.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Night Vision to Kazuruki]
+[19Dec2024 23:16:17.354] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70726057[id=<null>,name=Graniter82a,properties={},legacy=false] (/172.30.89.163:61391) lost connection: Disconnected
+[19Dec2024 23:16:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Night Vision to Kazuruki]
+[19Dec2024 23:16:53.910] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@64d65065[id=<null>,name=Graniter82a,properties={},legacy=false] (/172.30.89.163:61424): Took too long to log in
+[19Dec2024 23:16:53.911] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64d65065[id=<null>,name=Graniter82a,properties={},legacy=false] (/172.30.89.163:61424) lost connection: Took too long to log in
+[19Dec2024 23:16:53.960] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 23:19:09.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[19Dec2024 23:19:14.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[19Dec2024 23:19:26.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Deceived Hopes]
+[19Dec2024 23:20:28.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57393, l='ServerLevel[world]', x=1909.30, y=78.00, z=-2047.50] died, message: 'Villager was slain by Zombie'
+[19Dec2024 23:20:38.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[19Dec2024 23:20:40.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[19Dec2024 23:21:38.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Surge Protector]
+[19Dec2024 23:23:08.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Book] to Kazuruki]
+[19Dec2024 23:23:19.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Pure Blood] to Kazuruki]
+[19Dec2024 23:23:45.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [My prince] to Kazuruki]
+[19Dec2024 23:24:17.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Kazuruki is now a Hunter level 4]
+[19Dec2024 23:24:25.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Vampire Fang] to Kazuruki]
+[19Dec2024 23:24:26.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Vampire Fang] to Kazuruki]
+[19Dec2024 23:24:26.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Vampire Fang] to Kazuruki]
+[19Dec2024 23:24:26.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Vampire Fang] to Kazuruki]
+[19Dec2024 23:24:26.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Vampire Fang] to Kazuruki]
+[19Dec2024 23:24:26.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Vampire Fang] to Kazuruki]
+[19Dec2024 23:24:26.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Vampire Fang] to Kazuruki]
+[19Dec2024 23:24:27.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Vampire Fang] to Kazuruki]
+[19Dec2024 23:24:27.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Vampire Fang] to Kazuruki]
+[19Dec2024 23:24:27.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Vampire Fang] to Kazuruki]
+[19Dec2024 23:24:59.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[19Dec2024 23:25:14.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19Dec2024 23:26:29.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Pure Blood] to Kazuruki]
+[19Dec2024 23:26:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [My prince] to Kazuruki]
+[19Dec2024 23:26:39.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Book] to Kazuruki]
+[19Dec2024 23:27:02.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[19Dec2024 23:27:33.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to -679.500000, 68.500000, -4750.500000]
+[19Dec2024 23:27:48.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to -1077.500000, 133.500000, -4555.500000]
+[19Dec2024 23:27:55.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:28:02.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to -1249.500000, 126.500000, -5105.500000]
+[19Dec2024 23:28:02.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6583ms or 131 ticks behind
+[19Dec2024 23:28:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:28:17.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:28:28.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:28:56.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:29:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:29:05.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:29:14.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:29:20.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:29:38.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:29:41.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:29:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:29:45.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:29:49.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:29:59.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:30:07.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:30:08.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:30:10.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:30:14.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:30:15.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:30:18.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:30:19.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:30:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:30:23.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:30:24.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:30:29.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:30:41.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:30:44.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:30:48.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:30:50.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:30:52.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:30:55.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:30:57.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:31:13.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:31:17.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:31:20.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:31:20.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[19Dec2024 23:31:22.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:31:25.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:31:32.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:31:55.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:31:57.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:00.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:04.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:11.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:16.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:19.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:21.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19Dec2024 23:32:24.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:30.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:32.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:35.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:40.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:43.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:46.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:48.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:51.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:53.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:56.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:32:59.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:33:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
+[19Dec2024 23:33:15.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Spectator Mode]
+[19Dec2024 23:33:25.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]

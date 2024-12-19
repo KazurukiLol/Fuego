@@ -845,6 +845,7 @@
       "coniferous_forest": "2024-12-14 03:38:02 +0000",
       "spider_nest": "2024-12-14 21:59:36 +0000",
       "redwood_forest": "2024-12-14 21:41:50 +0000",
+      "seasonal_orchard": "2024-12-19 23:20:49 +0000",
       "dune_beach": "2024-12-14 03:38:08 +0000",
       "seasonal_forest": "2024-12-14 03:30:05 +0000",
       "fir_clearing": "2024-12-14 03:36:34 +0000",
@@ -5586,6 +5587,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_coat_head_normal": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_feet_normal": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
   "vampirism:hunter/become_hunter": {
     "criteria": {
       "main": "2024-12-19 22:47:39 +0000"
@@ -5616,9 +5629,21 @@
     },
     "done": false
   },
+  "vampirism:recipes/combat/weapontable/hunter_coat_legs_normal": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-19 22:14:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/basic_crossbow": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
     },
     "done": true
   },
@@ -5664,6 +5689,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_chest_normal": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2024-12-19 22:14:00 +0000"
@@ -5676,15 +5707,51 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_legs_normal": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-12-19 22:14:00 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_feet_normal": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_hat_head_0": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_hat_head_1": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_spitfire": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2024-12-19 22:14:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_vampire_killer": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
     },
     "done": true
   },
@@ -5724,6 +5791,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_axe_normal": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/pitchfork": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2024-12-19 22:14:00 +0000"
@@ -5742,9 +5821,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_coat_chest_normal": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2024-12-19 22:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-19 23:21:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_head_normal": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
     },
     "done": true
   },
@@ -5781,6 +5878,18 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2024-12-19 22:14:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/tech_crossbow_ammo_package": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_teleport": {
+    "criteria": {
+      "has_skill": "2024-12-19 23:10:17 +0000"
     },
     "done": true
   },
