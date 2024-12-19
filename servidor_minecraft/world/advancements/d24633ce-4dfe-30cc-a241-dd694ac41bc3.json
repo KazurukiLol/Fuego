@@ -7739,21 +7739,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-18 23:03:12 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-18 22:55:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
     },
     "done": true
   },
@@ -7763,27 +7751,9 @@
     },
     "done": true
   },
-  "spartanshields:recipes/copper_tower_shield": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-18 22:55:53 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
     },
     "done": true
   },
@@ -7793,45 +7763,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_exposed_copper": "2024-12-18 23:31:21 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2024-12-18 22:55:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-18 22:57:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_weathered_copper": "2024-12-18 23:33:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
     },
     "done": true
   },
@@ -7844,12 +7778,6 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-18 22:55:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
     },
     "done": true
   },
@@ -7889,18 +7817,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
-    "criteria": {
-      "has_blasting_upgrade": "2024-12-18 23:02:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-18 22:55:53 +0000"
@@ -7919,27 +7835,9 @@
     },
     "done": true
   },
-  "spartanshields:recipes/copper_basic_shield": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_weathered_copper": "2024-12-18 23:33:34 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-18 22:55:53 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-18 22:57:46 +0000"
     },
     "done": true
   },
@@ -7961,12 +7859,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_exposed_copper": "2024-12-18 23:31:21 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2024-12-18 22:55:53 +0000"
@@ -7985,33 +7877,9 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-18 22:55:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-18 23:03:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-18 23:03:12 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/food_press": {
-    "criteria": {
-      "has_hopper": "2024-12-18 22:59:24 +0000"
     },
     "done": true
   },
@@ -8024,54 +7892,6 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-18 22:55:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_exposed_copper": "2024-12-18 23:31:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_weathered_copper": "2024-12-18 23:33:34 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-18 22:57:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2024-12-18 23:28:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2024-12-18 23:28:50 +0000"
-    },
-    "done": true
-  },
-  "terramity:warden_soul_advancement": {
-    "criteria": {
-      "warden_soul_advancement_0": "2024-12-18 23:39:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2024-12-18 23:26:08 +0000"
     },
     "done": true
   },
@@ -8093,9 +7913,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper": {
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
-      "has_waxed_exposed_copper": "2024-12-18 23:31:21 +0000"
+      "has_upgrade_base": "2024-12-18 22:55:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-18 22:55:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-18 22:57:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-18 22:57:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-18 22:57:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2024-12-18 22:59:24 +0000"
     },
     "done": true
   },
@@ -8111,33 +7961,141 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2024-12-18 23:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-18 23:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-18 23:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-18 23:03:12 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-18 23:07:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2024-12-18 23:10:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
+      "avoid_vibration": "2024-12-18 23:26:08 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+  "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
-      "has_upgrade_base": "2024-12-18 22:55:53 +0000"
+      "has_echo_shard": "2024-12-18 23:28:50 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "has_upgrade_base": "2024-12-18 22:55:53 +0000"
+      "kill_mob_near_sculk_catalyst": "2024-12-18 23:28:53 +0000"
     },
     "done": true
   },
-  "apotheosis:spawner/capturing": {
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting": {
     "criteria": {
-      "egg": "2024-12-18 23:39:28 +0000"
+      "has_waxed_exposed_copper": "2024-12-18 23:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2024-12-18 23:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2024-12-18 23:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2024-12-18 23:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2024-12-18 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2024-12-18 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2024-12-18 23:33:34 +0000"
     },
     "done": true
   },
@@ -8147,9 +8105,51 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+  "terramity:warden_soul_advancement": {
     "criteria": {
-      "has_item": "2024-12-18 23:07:07 +0000"
+      "warden_soul_advancement_0": "2024-12-18 23:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 23:39:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2024-12-18 23:39:28 +0000"
     },
     "done": true
   },
