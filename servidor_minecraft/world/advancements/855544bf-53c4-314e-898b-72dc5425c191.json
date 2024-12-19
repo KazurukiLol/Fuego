@@ -6397,9 +6397,10 @@
   },
   "vampirism:hunter/stake": {
     "criteria": {
-      "main": "2024-12-17 20:32:47 +0000"
+      "main": "2024-12-17 20:32:47 +0000",
+      "flower": "2024-12-19 22:54:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:hunter/kill_mother": {
     "criteria": {
@@ -6986,6 +6987,12 @@
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2024-12-18 23:43:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2024-12-19 23:02:33 +0000"
     },
     "done": true
   },
