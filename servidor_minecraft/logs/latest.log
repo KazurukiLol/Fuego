@@ -1434,3 +1434,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [19Dec2024 21:56:57.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck fell from a high place
 [19Dec2024 21:57:06.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. After Chik3nBl4ck fell from a high place, they gave up
 [19Dec2024 21:57:20.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chik3nBl4ck fell from a high place, they gave up
+[19Dec2024 22:01:18.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kazuruki[/172.30.70.184:62934] logged in with entity id 3733 at (341.6443015004028, -49.32044808513356, -3658.300000011921)
+[19Dec2024 22:01:18.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki joined the game
+[19Dec2024 22:02:01.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has completed the challenge [When Life Gives You Lemons]
+[19Dec2024 22:02:41.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Spectator Mode]
+[19Dec2024 22:02:57.761] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[19Dec2024 22:03:33.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[19Dec2024 22:04:26.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Spectator Mode]
+[19Dec2024 22:04:39.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[19Dec2024 22:05:50.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[19Dec2024 22:06:20.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from Kazuruki]
+[19Dec2024 22:06:23.155] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3366, y=30, z=2268}
+[19Dec2024 22:07:45.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Steak Sandwich] to Kazuruki]
+[19Dec2024 22:08:29.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[19Dec2024 22:09:51.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]

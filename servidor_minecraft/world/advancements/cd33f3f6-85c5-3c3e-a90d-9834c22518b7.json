@@ -5639,5 +5639,11 @@
     },
     "done": true
   },
+  "terramity:when_life_gives_you_lemons": {
+    "criteria": {
+      "when_life_gives_you_lemons_0": "2024-12-19 22:02:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
