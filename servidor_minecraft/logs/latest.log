@@ -5275,3 +5275,31 @@ java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "messag
 [19Dec2024 23:33:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Vampire Baron Level 2
 [19Dec2024 23:33:15.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Spectator Mode]
 [19Dec2024 23:33:25.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[19Dec2024 23:33:41.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19Dec2024 23:34:57.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to 70.500000, 102.500000, -5314.500000]
+[19Dec2024 23:35:11.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Diamond Apple] to Kazuruki]
+[19Dec2024 23:35:38.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[19Dec2024 23:35:46.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[19Dec2024 23:35:50.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19Dec2024 23:36:00.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[19Dec2024 23:36:12.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[19Dec2024 23:36:39.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[19Dec2024 23:36:42.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[19Dec2024 23:38:21.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[19Dec2024 23:38:24.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19Dec2024 23:38:56.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 83.500000, 102.500000, -5309.500000]
+[19Dec2024 23:39:01.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[19Dec2024 23:39:15.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19Dec2024 23:39:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Key Panel] to Kazuruki]
+[19Dec2024 23:40:13.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[19Dec2024 23:40:51.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Kazuruki using [Moonlight Edge]
+[19Dec2024 23:40:54.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 was burnt to a crisp whilst fighting Kazuruki
+[19Dec2024 23:41:01.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Dec2024 23:41:59.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[19Dec2024 23:42:31.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[19Dec2024 23:42:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[19Dec2024 23:43:01.936] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4b522198[id=<null>,name=Graniter82a,properties={},legacy=false] (/172.30.89.163:63617): Took too long to log in
+[19Dec2024 23:43:01.937] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b522198[id=<null>,name=Graniter82a,properties={},legacy=false] (/172.30.89.163:63617) lost connection: Took too long to log in
+[19Dec2024 23:43:01.983] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 23:43:37.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[19Dec2024 23:43:57.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4633ms or 92 ticks behind
