@@ -1448,3 +1448,69 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [19Dec2024 22:07:45.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Steak Sandwich] to Kazuruki]
 [19Dec2024 22:08:29.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
 [19Dec2024 22:09:51.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[19Dec2024 22:10:15.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blaze Seeds] to Kazuruki]
+[19Dec2024 22:10:31.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Soul Jar] to Kazuruki]
+[19Dec2024 22:10:31.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Soul Jar] to Kazuruki]
+[19Dec2024 22:10:32.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Soul Jar] to Kazuruki]
+[19Dec2024 22:10:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Soul Jar] to Kazuruki]
+[19Dec2024 22:10:37.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Soul Jar] to Kazuruki]
+[19Dec2024 22:10:39.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Soul Jar] to Kazuruki]
+[19Dec2024 22:10:41.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Soul Jar] to Kazuruki]
+[19Dec2024 22:13:36.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Soulium Seed Base] to Kazuruki]
+[19Dec2024 22:14:01.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[19Dec2024 22:14:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19Dec2024 22:14:28.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[19Dec2024 22:14:42.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[19Dec2024 22:15:17.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[19Dec2024 22:17:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[19Dec2024 22:18:24.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Wood Essence] to Kazuruki]
+[19Dec2024 22:19:05.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Hollow soldier
+[19Dec2024 22:21:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19Dec2024 22:22:02.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[19Dec2024 22:22:15.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was killed by magic whilst trying to escape Kazuruki
+[19Dec2024 22:22:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was obliterated by a sonically-charged shriek whilst trying to escape Sanity15
+[19Dec2024 22:22:20.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. After Sanity15 was killed by magic whilst trying to escape Kazuruki, they gave up
+[19Dec2024 22:22:56.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from Sanity15]
+[19Dec2024 22:23:01.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from Kazuruki]
+[19Dec2024 22:23:51.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
+[19Dec2024 22:24:04.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Sanity15
+[19Dec2024 22:24:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was obliterated by a sonically-charged shriek whilst trying to escape Sanity15
+[19Dec2024 22:24:24.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Sanity15
+[19Dec2024 22:24:27.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Chik3nBl4ck
+[19Dec2024 22:24:28.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[19Dec2024 22:24:31.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[19Dec2024 22:24:31.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Sanity15 was slain by Chik3nBl4ck, they gave up
+[19Dec2024 22:24:32.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was slain by Chik3nBl4ck
+[19Dec2024 22:24:32.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[19Dec2024 22:24:39.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
+[19Dec2024 22:24:48.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Chik3nBl4ck
+[19Dec2024 22:25:02.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from Chik3nBl4ck]
+[19Dec2024 22:26:53.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[19Dec2024 22:30:04.678] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@785eacb5, suppressing error
+java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "message" is null
+	at net.kenji.kenjiscombatforms.entity.custom.SenseiEntities.ExiledSenseiEntity.mobInteract2(ExiledSenseiEntity.java:696) ~[1.20.1-KenjisCombatForms-forge-1.1.3.jar%23226!/:1.1.3]
+	at net.kenji.kenjiscombatforms.entity.custom.SenseiEntities.ExiledSenseiEntity.m_6071_(ExiledSenseiEntity.java:579) ~[1.20.1-KenjisCombatForms-forge-1.1.3.jar%23226!/:1.1.3]
+	at net.minecraft.world.entity.Mob.m_6096_(Mob.java:1122) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:979) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23351!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19Dec2024 22:30:11.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
