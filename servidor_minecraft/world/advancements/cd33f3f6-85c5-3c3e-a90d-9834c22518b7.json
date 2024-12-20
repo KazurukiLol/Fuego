@@ -6522,5 +6522,17 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-20 21:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-20 21:06:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

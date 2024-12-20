@@ -2770,3 +2770,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [20Dec2024 21:00:39.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
 [20Dec2024 21:00:53.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
 [20Dec2024 21:01:04.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has completed the challenge [Titan-Forged]
+[20Dec2024 21:02:05.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 21:02:18.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 21:02:25.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[20Dec2024 21:02:41.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 21:02:54.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from Kazuruki]
+[20Dec2024 21:03:10.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Tools of the Trade]
+[20Dec2024 21:04:16.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from Kazuruki]
+[20Dec2024 21:05:28.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [Sky's the Limit]
+[20Dec2024 21:06:52.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [The End?]
+[20Dec2024 21:06:52.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Kazuruki]
+[20Dec2024 21:06:52.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! -2.153568444725579,4.850799980258941,-22.039199361611225
+[20Dec2024 21:08:25.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Duke Henderson the Cracked'/13430, l='ServerLevel[world]', x=1993.57, y=59.00, z=1052.61] died: Duke Henderson the Cracked was slain by Chik3nBl4ck
+[20Dec2024 21:09:12.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! -0.3523448552937225,0.0,-10.88002933785242
+[20Dec2024 21:10:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 21:10:18.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Double Trouble]
