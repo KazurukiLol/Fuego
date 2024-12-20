@@ -1519,3 +1519,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [20Dec2024 04:30:15.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
 [20Dec2024 04:30:53.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
 [20Dec2024 04:31:03.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[20Dec2024 04:31:51.369] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[20Dec2024 04:32:26.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 04:32:29.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [A Ruined Citadel]
+[20Dec2024 04:32:42.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 04:32:42.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [A Ruined Citadel]
+[20Dec2024 04:32:55.275] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Agizahr the Archmage'/16227, l='ServerLevel[world]', x=10.06, y=55.00, z=-2277.60] died: Agizahr the Archmage was slain by Kazuruki
+[20Dec2024 04:32:58.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has completed the challenge [Steeped in Strength]
+[20Dec2024 04:34:19.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Palette Swap]
+[20Dec2024 04:37:13.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Abyssal Sacrifice] to Kazuruki]
+[20Dec2024 04:38:54.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 04:41:07.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['SwankyStella the Happiness Advocate'/18682, l='ServerLevel[world]', x=249.50, y=55.00, z=-1603.50] died: SwankyStella the Happiness Advocate was slain by Chik3nBl4ck
