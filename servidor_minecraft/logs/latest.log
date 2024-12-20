@@ -11206,3 +11206,31 @@
 [20Dec2024 01:37:44.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [20Dec2024 01:37:49.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
 [20Dec2024 01:37:52.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 371.500000, 64.500000, -3704.500000]
+[20Dec2024 01:38:02.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[20Dec2024 01:38:21.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3714ms or 74 ticks behind
+[20Dec2024 01:38:23.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 01:39:04.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=12, z=-4449} BlockPos{x=-33, y=11, z=-4449}
+[20Dec2024 01:39:44.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Nucleeper Spawn Egg] to Kazuruki]
+[20Dec2024 01:39:48.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 01:39:50.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Dec2024 01:39:54.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[20Dec2024 01:40:47.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Flint and Steel] to Kazuruki]
+[20Dec2024 01:40:49.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Flint and Steel] to Kazuruki]
+[20Dec2024 01:40:58.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Netherrack] to Kazuruki]
+[20Dec2024 01:41:02.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Chik3nBl4ck to Sanity15]
+[20Dec2024 01:42:58.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [I Reject My Humanity!]
+[20Dec2024 01:43:58.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Night Vision Goggles] to Kazuruki]
+[20Dec2024 01:44:23.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Nucleeper Spawn Egg] to Kazuruki]
+[20Dec2024 01:44:41.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Strength to Kazuruki]
+[20Dec2024 01:44:44.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[20Dec2024 01:45:17.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported 3 entities to Kazuruki]
+[20Dec2024 01:45:24.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Crisis Adverted]
+[20Dec2024 01:46:07.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! 7.675987504653847,-5.5333944217819635,17.590860805970806
+[20Dec2024 01:46:41.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported 3 entities to Kazuruki]
+[20Dec2024 01:46:42.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 01:47:20.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Nuclear Bomb] to Kazuruki]
+[20Dec2024 01:47:51.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Black Argillite Button] to Kazuruki]
+[20Dec2024 01:48:10.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 14.331760424234119,0.337011639637808,-14.832469070896877
+[20Dec2024 01:48:10.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kazuruki> o,e s
+[20Dec2024 01:48:13.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[20Dec2024 01:48:14.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 1000]
