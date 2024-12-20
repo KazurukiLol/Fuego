@@ -11234,3 +11234,43 @@
 [20Dec2024 01:48:10.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kazuruki> o,e s
 [20Dec2024 01:48:13.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
 [20Dec2024 01:48:14.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 1000]
+[20Dec2024 01:48:33.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4753ms or 95 ticks behind
+[20Dec2024 01:49:09.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 1247 entities]
+[20Dec2024 01:49:19.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Cobweb Entanglement]
+[20Dec2024 01:49:25.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Regeneration to 3 targets]
+[20Dec2024 01:49:32.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from 3 targets]
+[20Dec2024 01:49:34.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Regeneration to 3 targets]
+[20Dec2024 01:49:59.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[20Dec2024 01:50:09.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 01:50:14.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck blew up
+[20Dec2024 01:50:24.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[20Dec2024 01:51:49.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
+[20Dec2024 01:52:17.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Betrayal]
+[20Dec2024 01:52:25.583] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/155991, l='ServerLevel[world]', x=-412.49, y=68.00, z=-4858.50] died: Honeyed Archer was irradiated to death
+[20Dec2024 01:53:41.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 01:53:57.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has completed the challenge [Subspace Bubble]
+[20Dec2024 01:53:57.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[20Dec2024 01:54:03.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5286ms or 105 ticks behind
+[20Dec2024 01:54:03.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanity15 moved too quickly! -6.99144879355498,0.12129684053920187,7.401376678776614
+[20Dec2024 01:54:20.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 01:54:51.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 14.394202719512919,3.617101241459764,24.266004293171136
+[20Dec2024 01:57:37.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[20Dec2024 01:57:49.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanity15 moved too quickly! -1.632310850058559,-10.242828038028378,-0.2568295222336019
+[20Dec2024 01:57:59.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was reduced to atoms
+[20Dec2024 01:58:09.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has completed the challenge [We'll Meet Again]
+[20Dec2024 01:58:17.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25869ms or 517 ticks behind
+[20Dec2024 01:58:32.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 7.126233158516868,-2.0808033547565934,18.758929114134844
+[20Dec2024 01:58:33.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 7.53204333456938,-2.6086544376071608,19.005136618880897
+[20Dec2024 01:58:33.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 7.0617869580918295,-2.610753920701967,19.015203359769657
+[20Dec2024 01:58:33.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 7.219228776880755,-2.6109290154453753,18.964060347019768
+[20Dec2024 01:58:34.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 7.1923766381394785,-2.611100160016232,18.95918958420316
+[20Dec2024 01:58:34.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 7.262592597105993,-2.6136846147383004,18.971136095265138
+[20Dec2024 01:58:40.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! -1.526528157253324,16.89151990963367,24.477582637050546
+[20Dec2024 01:58:40.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! -2.7625030154516708,16.959415061237724,24.02432042176315
+[20Dec2024 01:58:41.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 2.027929678650196,17.793216865291782,24.134586821769517
+[20Dec2024 01:58:42.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 2.7817272128187938,1.4373331164050365,29.134586821769517
+[20Dec2024 01:58:42.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 2.667188505841068,-9.510886984898667,13.134586821769517
+[20Dec2024 01:58:43.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 2.5033023853713985,-12.086417096935367,29.134586821769517
+[20Dec2024 01:58:43.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 2.261584983743603,-19.57645414709735,13.134586821769517
+[20Dec2024 01:58:44.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 4.840608960912732,-13.853781519566933,16.173435966418765
+[20Dec2024 01:58:44.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 3.651827623636393,-19.6211459421985,13.287331882635044

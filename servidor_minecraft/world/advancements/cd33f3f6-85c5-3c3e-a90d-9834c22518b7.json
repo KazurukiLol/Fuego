@@ -5783,9 +5783,10 @@
   },
   "vampirism:hunter/betrayal": {
     "criteria": {
-      "faction": "2024-12-19 22:47:39 +0000"
+      "faction": "2024-12-19 22:47:39 +0000",
+      "kill": "2024-12-20 01:52:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:hunter/cure_vampire_villager": {
     "criteria": {

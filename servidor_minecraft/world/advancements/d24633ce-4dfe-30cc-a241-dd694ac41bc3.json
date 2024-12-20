@@ -8525,6 +8525,7 @@
   },
   "alexscaves:alexscaves/eat_radiation_foods": {
     "criteria": {
+      "slam": "2024-12-20 01:51:51 +0000",
       "spelunkie": "2024-12-20 01:17:18 +0000"
     },
     "done": false
@@ -8547,6 +8548,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-20 01:49:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-20 01:10:32 +0000"
@@ -8556,6 +8563,12 @@
   "alexscaves:alexscaves/defeat_brainiac": {
     "criteria": {
       "killed": "2024-12-20 01:05:37 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-20 01:49:19 +0000"
     },
     "done": true
   },
