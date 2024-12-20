@@ -7000,9 +7000,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2024-12-20 01:05:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2024-12-20 01:04:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2024-12-20 01:05:24 +0000"
+    },
+    "done": true
+  },
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2024-12-20 00:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-20 01:12:16 +0000"
     },
     "done": true
   },
@@ -7057,6 +7081,12 @@
   "vampirism:vampire/max_level": {
     "criteria": {
       "level": "2024-12-20 00:15:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2024-12-20 01:06:51 +0000"
     },
     "done": true
   },
