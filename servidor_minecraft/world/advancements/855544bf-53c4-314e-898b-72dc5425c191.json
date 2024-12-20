@@ -7275,6 +7275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-20 04:14:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2024-12-20 03:59:43 +0000"
@@ -7290,6 +7296,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2024-12-20 03:59:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2024-12-20 04:10:29 +0000"
     },
     "done": true
   },
@@ -7323,6 +7335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-20 04:14:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2024-12-20 03:56:43 +0000"
@@ -7338,6 +7356,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-20 03:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-20 04:14:10 +0000"
     },
     "done": true
   },
@@ -7377,9 +7401,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-20 04:14:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-20 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod_end": {
+    "criteria": {
+      "gobber2_rod_end": "2024-12-20 04:16:46 +0000"
     },
     "done": true
   },
@@ -7407,6 +7443,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-20 04:14:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2024-12-20 03:52:21 +0000"
@@ -7416,6 +7458,18 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-20 03:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-20 04:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-20 04:14:17 +0000"
     },
     "done": true
   },

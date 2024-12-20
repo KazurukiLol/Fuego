@@ -1473,3 +1473,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [20Dec2024 04:09:47.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Waystone] to Kazuruki]
 [20Dec2024 04:09:59.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Chik3nBl4ck to Kazuruki]
 [20Dec2024 04:09:59.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Eye Spy]
+[20Dec2024 04:13:45.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[20Dec2024 04:14:05.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 04:14:05.940] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[20Dec2024 04:14:05.941] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[20Dec2024 04:14:05.941] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[20Dec2024 04:14:06.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [The End?]
+[20Dec2024 04:14:09.503] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[20Dec2024 04:14:09.505] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[20Dec2024 04:14:10.138] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[20Dec2024 04:14:10.139] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=65, z=0}
+[20Dec2024 04:14:10.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [The End?]
+[20Dec2024 04:14:10.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4563ms or 91 ticks behind
+[20Dec2024 04:14:10.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 1764.5657285419356,72.46415937495544,-856.9234946456661
+[20Dec2024 04:14:49.171] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[20Dec2024 04:14:49.172] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[20Dec2024 04:15:19.390] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=65, z=0}
+[20Dec2024 04:15:39.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was blown up by Chik3nBl4ck
+[20Dec2024 04:16:46.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [The Key to Unbreakable Gear]
+[20Dec2024 04:16:56.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was blown up by Chik3nBl4ck
+[20Dec2024 04:17:10.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was killed by Dragon Breath using magic
+[20Dec2024 04:17:20.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Glass Bottle] to Kazuruki]
+[20Dec2024 04:17:45.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Regeneration to 2 targets]
+[20Dec2024 04:18:39.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Free the End]
+[20Dec2024 04:18:46.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved wrongly!
+[20Dec2024 04:18:49.078] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=65, z=0}
