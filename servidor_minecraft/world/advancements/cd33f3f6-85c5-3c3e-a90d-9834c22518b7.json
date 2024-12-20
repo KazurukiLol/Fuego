@@ -815,8 +815,10 @@
       "minecraft:grove": "2024-12-15 22:42:57 +0000",
       "minecraft:cold_ocean": "2024-12-14 03:35:47 +0000",
       "minecraft:forest": "2024-12-14 03:22:47 +0000",
+      "minecraft:frozen_ocean": "2024-12-20 23:09:48 +0000",
       "minecraft:ocean": "2024-12-14 03:38:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-19 23:33:38 +0000",
+      "minecraft:snowy_beach": "2024-12-20 23:09:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-14 20:08:17 +0000",
       "minecraft:meadow": "2024-12-15 22:27:01 +0000",
       "minecraft:plains": "2024-12-14 19:59:08 +0000"
@@ -839,6 +841,7 @@
     "criteria": {
       "muskeg": "2024-12-17 22:06:20 +0000",
       "shrubland": "2024-12-14 03:37:24 +0000",
+      "snowblossom_grove": "2024-12-20 23:12:35 +0000",
       "rocky_shrubland": "2024-12-14 03:27:01 +0000",
       "highland": "2024-12-15 22:27:06 +0000",
       "clover_patch": "2024-12-18 01:47:45 +0000",
@@ -848,6 +851,7 @@
       "field": "2024-12-15 22:56:00 +0000",
       "coniferous_forest": "2024-12-14 03:38:02 +0000",
       "spider_nest": "2024-12-14 21:59:36 +0000",
+      "old_growth_dead_forest": "2024-12-20 23:09:40 +0000",
       "redwood_forest": "2024-12-14 21:41:50 +0000",
       "seasonal_orchard": "2024-12-19 23:20:49 +0000",
       "dune_beach": "2024-12-14 03:38:08 +0000",
@@ -856,8 +860,10 @@
       "pumpkin_patch": "2024-12-14 03:35:30 +0000",
       "prairie": "2024-12-14 03:38:57 +0000",
       "grassland": "2024-12-14 20:07:46 +0000",
+      "tundra": "2024-12-20 23:13:26 +0000",
       "glowing_grotto": "2024-12-20 21:21:56 +0000",
       "crag": "2024-12-15 22:43:03 +0000",
+      "snowy_maple_woods": "2024-12-20 23:09:41 +0000",
       "ominous_woods": "2024-12-20 22:40:24 +0000"
     },
     "done": false
@@ -6594,54 +6600,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2024-12-20 23:07:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2024-12-20 23:07:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/fajitas": {
-    "criteria": {
-      "has_bellpepper": "2024-12-20 22:58:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2024-12-20 22:32:36 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2024-12-20 23:07:58 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 22:07:48 +0000"
@@ -6660,18 +6618,6 @@
     },
     "done": true
   },
-  "corail_recycler:tutorial/build_recycler": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 22:46:46 +0000"
-    },
-    "done": true
-  },
-  "corail_recycler:tutorial/build_disk": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 22:47:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 22:07:48 +0000"
@@ -6684,9 +6630,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab": {
+  "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
-      "has_bricks": "2024-12-20 23:07:58 +0000"
+      "has_copper_ingot": "2024-12-20 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-20 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
     },
     "done": true
   },
@@ -6708,45 +6684,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
-    "criteria": {
-      "has_stick": "2024-12-20 22:36:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 22:32:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-20 22:51:35 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_ajvar": {
-    "criteria": {
-      "has_bellpepper": "2024-12-20 22:58:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-12-20 22:13:57 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/copper_basic_shield": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-20 22:07:48 +0000"
     },
     "done": true
   },
@@ -6756,27 +6696,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-20 22:31:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2024-12-20 23:07:58 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-20 22:07:48 +0000"
     },
     "done": true
   },
@@ -6786,33 +6708,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
-    "criteria": {
-      "has_rose_quartz_chunk": "2024-12-20 22:32:04 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-20 22:40:41 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:spellbound/unlocked/nether_fortress_core": {
-    "criteria": {
-      "blowgun": "2024-12-20 22:36:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/bellpepper_seed": {
-    "criteria": {
-      "has_bellpepper": "2024-12-20 22:58:57 +0000"
     },
     "done": true
   },
@@ -6828,27 +6726,21 @@
     },
     "done": true
   },
-  "corail_recycler:recipes/netherite_nugget": {
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "requirement": "2024-12-20 22:52:47 +0000"
+      "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "requirement": "2024-12-20 22:51:19 +0000"
+      "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "entered_nether": "2024-12-20 22:31:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2024-12-20 22:36:08 +0000"
+      "crying_obsidian": "2024-12-20 22:13:57 +0000"
     },
     "done": true
   },
@@ -6864,9 +6756,135 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
+      "entered_nether": "2024-12-20 22:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-20 22:31:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2024-12-20 22:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 22:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-20 22:32:36 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2024-12-20 22:36:08 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/nether_fortress_core": {
+    "criteria": {
+      "blowgun": "2024-12-20 22:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-20 22:36:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-20 22:40:41 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/build_recycler": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/build_disk": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 22:47:15 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-20 22:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-20 22:51:35 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/netherite_nugget": {
+    "criteria": {
+      "requirement": "2024-12-20 22:52:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 22:58:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 22:58:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 22:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-20 23:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-20 23:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-20 23:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-20 23:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-20 23:07:58 +0000"
     },
     "done": true
   },
@@ -6876,15 +6894,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+  "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
-      "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+  "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
-      "has_item": "2024-12-20 22:07:48 +0000"
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-20 23:20:57 +0000"
     },
     "done": true
   },

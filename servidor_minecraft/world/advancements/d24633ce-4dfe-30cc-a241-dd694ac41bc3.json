@@ -9031,6 +9031,24 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-20 22:05:05 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2024-12-20 22:06:46 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-20 22:39:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/birch_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-20 22:53:00 +0000"
@@ -9055,21 +9073,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
-    "criteria": {
-      "requirement": "2024-12-20 22:06:46 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/transportation/jungle_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-20 22:53:00 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2024-12-20 22:57:47 +0000"
     },
     "done": true
   },
@@ -9091,21 +9097,21 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
-    "criteria": {
-      "requirement": "2024-12-20 22:39:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/transportation/oak_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-20 22:53:00 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+  "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
-      "requirement": "2024-12-20 22:05:05 +0000"
+      "has_prismarine_crystals": "2024-12-20 22:57:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2024-12-20 23:09:20 +0000"
     },
     "done": true
   },
