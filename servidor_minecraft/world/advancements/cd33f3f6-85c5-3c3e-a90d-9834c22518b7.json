@@ -845,6 +845,7 @@
       "rocky_shrubland": "2024-12-14 03:27:01 +0000",
       "highland": "2024-12-15 22:27:06 +0000",
       "clover_patch": "2024-12-18 01:47:45 +0000",
+      "cold_desert": "2024-12-20 23:37:32 +0000",
       "maple_woods": "2024-12-20 00:53:00 +0000",
       "crystalline_chasm": "2024-12-20 22:32:04 +0000",
       "orchard": "2024-12-14 20:12:47 +0000",
@@ -860,6 +861,8 @@
       "pumpkin_patch": "2024-12-14 03:35:30 +0000",
       "prairie": "2024-12-14 03:38:57 +0000",
       "grassland": "2024-12-14 20:07:46 +0000",
+      "snowy_coniferous_forest": "2024-12-20 23:37:58 +0000",
+      "snowy_fir_clearing": "2024-12-20 23:40:44 +0000",
       "tundra": "2024-12-20 23:13:26 +0000",
       "glowing_grotto": "2024-12-20 21:21:56 +0000",
       "crag": "2024-12-15 22:43:03 +0000",
@@ -6966,9 +6969,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-20 23:42:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-20 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-20 23:47:52 +0000"
     },
     "done": true
   },
