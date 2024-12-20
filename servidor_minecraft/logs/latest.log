@@ -2872,3 +2872,141 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [20Dec2024 21:32:13.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to -618.500000, 85.500000, -4751.500000]
 [20Dec2024 21:32:19.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6715ms or 134 ticks behind
 [20Dec2024 21:32:30.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[20Dec2024 21:32:40.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Nucleeper Spawn Egg] to Kazuruki]
+[20Dec2024 21:32:47.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13049ms or 260 ticks behind
+[20Dec2024 21:32:56.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Spectator Mode]
+[20Dec2024 21:33:02.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported 4 entities to Kazuruki]
+[20Dec2024 21:33:07.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[20Dec2024 21:33:12.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10761ms or 215 ticks behind
+[20Dec2024 21:33:21.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Crisis Adverted]
+[20Dec2024 21:33:22.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Nucleeper Spawn Egg] to Kazuruki]
+[20Dec2024 21:33:34.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to -618.500000, 85.500000, -4752.500000]
+[20Dec2024 21:33:37.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! 9.020964799138767,4.1671898888507,-1.8109574386953682
+[20Dec2024 21:33:42.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14952ms or 299 ticks behind
+[20Dec2024 21:33:49.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[20Dec2024 21:34:00.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved wrongly!
+[20Dec2024 21:34:00.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Librarian'/36579, l='ServerLevel[world]', x=-331.99, y=63.00, z=-5282.05] died, message: 'Librarian became death, the destroyer of worlds'
+[20Dec2024 21:34:00.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was obliterated by a sonically-charged shriek whilst trying to escape Graniter82a
+[20Dec2024 21:34:00.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was atomized
+[20Dec2024 21:34:01.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Spectator Mode]
+[20Dec2024 21:34:03.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was obliterated by a sonically-charged shriek whilst trying to escape Graniter82a
+[20Dec2024 21:34:04.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[20Dec2024 21:34:06.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[20Dec2024 21:34:11.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 21:34:12.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14539ms or 290 ticks behind
+[20Dec2024 21:34:13.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to -328.500000, 71.500000, -5311.500000]
+[20Dec2024 21:34:13.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[20Dec2024 21:34:39.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12392ms or 247 ticks behind
+[20Dec2024 21:34:44.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Graniter82a]
+[20Dec2024 21:35:03.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8890ms or 177 ticks behind
+[20Dec2024 21:35:17.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has completed the challenge [Exorcism]
+[20Dec2024 21:35:18.170] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[20Dec2024 21:35:19.700] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[20Dec2024 21:35:21.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set Chik3nBl4ck's game mode to Creative Mode]
+[20Dec2024 21:35:22.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 21:35:23.359] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/36584, l='ServerLevel[world]', x=-354.47, y=63.00, z=-5251.78] died, message: 'Toolsmith succumbed to radiation poisoning'
+[20Dec2024 21:35:28.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10217ms or 204 ticks behind
+[20Dec2024 21:35:34.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Chik3nBl4ck to Kazuruki]
+[20Dec2024 21:35:43.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to -622.500000, 79.500000, -4765.500000]
+[20Dec2024 21:35:53.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9511ms or 190 ticks behind
+[20Dec2024 21:35:54.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[20Dec2024 21:36:00.217] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36528, l='ServerLevel[world]', x=-403.50, y=71.00, z=-5261.50] died, message: 'Villager didn't duck and cover'
+[20Dec2024 21:36:00.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36529, l='ServerLevel[world]', x=-400.50, y=67.00, z=-5259.50] died, message: 'Villager didn't duck and cover'
+[20Dec2024 21:36:00.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/36537, l='ServerLevel[world]', x=-400.97, y=69.00, z=-5241.44] died, message: 'Nitwit didn't duck and cover'
+[20Dec2024 21:36:00.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36543, l='ServerLevel[world]', x=-389.85, y=67.00, z=-5298.08] died, message: 'Villager became death, the destroyer of worlds'
+[20Dec2024 21:36:00.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36531, l='ServerLevel[world]', x=-397.08, y=67.77, z=-5259.47] died, message: 'Villager was atomized'
+[20Dec2024 21:36:00.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36464, l='ServerLevel[world]', x=-393.43, y=69.00, z=-5228.95] died, message: 'Villager didn't duck and cover'
+[20Dec2024 21:36:00.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36465, l='ServerLevel[world]', x=-387.48, y=69.00, z=-5228.89] died, message: 'Villager was reduced to atoms'
+[20Dec2024 21:36:00.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36466, l='ServerLevel[world]', x=-394.61, y=69.00, z=-5220.33] died, message: 'Villager was atomized'
+[20Dec2024 21:36:00.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36467, l='ServerLevel[world]', x=-386.56, y=69.00, z=-5220.41] died, message: 'Villager didn't duck and cover'
+[20Dec2024 21:36:00.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/36549, l='ServerLevel[world]', x=-392.20, y=68.94, z=-5222.77] died, message: 'Farmer was reduced to atoms'
+[20Dec2024 21:36:00.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Priest'/36450, l='ServerLevel[world]', x=-389.74, y=69.00, z=-5220.33] died, message: 'Priest was atomized'
+[20Dec2024 21:36:00.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/36359, l='ServerLevel[world]', x=-391.56, y=69.00, z=-5221.71] died, message: 'Farmer became death, the destroyer of worlds'
+[20Dec2024 21:36:00.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Vampire Expert'/36358, l='ServerLevel[world]', x=-397.48, y=69.00, z=-5221.55] died, message: 'Vampire Expert didn't duck and cover'
+[20Dec2024 21:36:00.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36394, l='ServerLevel[world]', x=-386.80, y=70.00, z=-5225.50] died, message: 'Villager didn't duck and cover'
+[20Dec2024 21:36:00.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Nitwit'/36546, l='ServerLevel[world]', x=-393.12, y=68.94, z=-5222.83] died, message: 'Nitwit was atomized'
+[20Dec2024 21:36:00.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/36357, l='ServerLevel[world]', x=-389.12, y=69.00, z=-5220.77] died, message: 'Farmer was atomized'
+[20Dec2024 21:36:00.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36493, l='ServerLevel[world]', x=-371.91, y=69.00, z=-5226.54] died, message: 'Villager didn't duck and cover'
+[20Dec2024 21:36:00.236] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36494, l='ServerLevel[world]', x=-378.58, y=69.00, z=-5226.93] died, message: 'Villager didn't duck and cover'
+[20Dec2024 21:36:00.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36495, l='ServerLevel[world]', x=-380.53, y=69.00, z=-5219.16] died, message: 'Villager was atomized'
+[20Dec2024 21:36:00.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36496, l='ServerLevel[world]', x=-374.47, y=69.00, z=-5219.07] died, message: 'Villager became death, the destroyer of worlds'
+[20Dec2024 21:36:00.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/36545, l='ServerLevel[world]', x=-376.30, y=69.00, z=-5226.19] died, message: 'Farmer was reduced to atoms'
+[20Dec2024 21:36:00.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36498, l='ServerLevel[world]', x=-377.85, y=68.94, z=-5224.45] died, message: 'Villager didn't duck and cover'
+[20Dec2024 21:36:00.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36583, l='ServerLevel[world]', x=-353.21, y=63.00, z=-5253.51] died, message: 'Villager became death, the destroyer of worlds'
+[20Dec2024 21:36:00.244] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36581, l='ServerLevel[world]', x=-353.55, y=63.00, z=-5253.54] died, message: 'Villager became death, the destroyer of worlds'
+[20Dec2024 21:36:00.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/36585, l='ServerLevel[world]', x=-352.42, y=63.00, z=-5251.51] died, message: 'Villager was atomized'
+[20Dec2024 21:36:00.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Librarian'/36389, l='ServerLevel[world]', x=-346.39, y=64.00, z=-5208.51] died, message: 'Librarian was reduced to atoms'
+[20Dec2024 21:36:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was killed
+[20Dec2024 21:36:09.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed Graniter82a]
+[20Dec2024 21:36:30.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48750, l='ServerLevel[world]', x=-419.00, y=67.20, z=-5236.00] died, message: 'Villager was reduced to atoms'
+[20Dec2024 21:36:40.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32489ms or 649 ticks behind
+[20Dec2024 21:37:09.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Weather the Worst the Nether can Muster]
+[20Dec2024 21:37:17.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[20Dec2024 21:37:18.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22824ms or 456 ticks behind
+[20Dec2024 21:37:26.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48932, l='ServerLevel[world]', x=-352.31, y=63.50, z=-5227.16] died, message: 'Villager became death, the destroyer of worlds'
+[20Dec2024 21:37:26.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 6.170515460417903,29.07167104231725,14.929286524903546
+[20Dec2024 21:37:26.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was reduced to atoms
+[20Dec2024 21:37:26.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 6.170515460417903,29.07167104231725,14.929286524903546
+[20Dec2024 21:37:27.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 6.170515460417903,29.07167104231725,14.929286524903546
+[20Dec2024 21:37:40.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Removed every effect from 4 targets]
+[20Dec2024 21:37:49.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 62.500000, 102.500000, -5307.500000]
+[20Dec2024 21:37:51.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18414ms or 368 ticks behind
+[20Dec2024 21:38:06.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Graniter82a]
+[20Dec2024 21:38:06.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[20Dec2024 21:38:18.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set Chik3nBl4ck's game mode to Survival Mode]
+[20Dec2024 21:38:25.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18647ms or 372 ticks behind
+[20Dec2024 21:38:28.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 3604 entities]
+[20Dec2024 21:38:41.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 21:38:43.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[20Dec2024 21:38:44.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4344ms or 86 ticks behind
+[20Dec2024 21:39:05.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5337ms or 106 ticks behind
+[20Dec2024 21:39:25.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5797ms or 115 ticks behind
+[20Dec2024 21:39:26.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [A Supreme Material]
+[20Dec2024 21:39:31.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33848, l='ServerLevel[world]', x=-428.52, y=72.32, z=-5217.50] died, message: 'Villager succumbed to radiation poisoning'
+[20Dec2024 21:39:31.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/33849, l='ServerLevel[world]', x=-425.50, y=75.00, z=-5221.30] died, message: 'Fisherman was irradiated to death'
+[20Dec2024 21:39:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from Kazuruki]
+[20Dec2024 21:39:41.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 21:39:45.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4886ms or 97 ticks behind
+[20Dec2024 21:39:46.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Spectator Mode]
+[20Dec2024 21:39:59.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Spawn magic: abyss watcher] to Kazuruki]
+[20Dec2024 21:40:03.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[20Dec2024 21:40:05.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4420ms or 88 ticks behind
+[20Dec2024 21:40:07.089] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Priest'/32618, l='ServerLevel[world]', x=-390.63, y=69.16, z=-5202.30] died, message: 'Priest was irradiated to death'
+[20Dec2024 21:40:12.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has completed the challenge [Abyss watcher hunter]
+[20Dec2024 21:40:20.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Kazuruki
+[20Dec2024 21:40:21.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[20Dec2024 21:40:24.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4845ms or 96 ticks behind
+[20Dec2024 21:40:41.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [Mastering Hell and Sea]
+[20Dec2024 21:40:43.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3314ms or 66 ticks behind
+[20Dec2024 21:41:02.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3953ms or 79 ticks behind
+[20Dec2024 21:41:14.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 371.500000, 64.500000, -3704.500000]
+[20Dec2024 21:41:23.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5888ms or 117 ticks behind
+[20Dec2024 21:41:43.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5438ms or 108 ticks behind
+[20Dec2024 21:42:04.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5759ms or 115 ticks behind
+[20Dec2024 21:42:09.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [An Even Better Block Breaker]
+[20Dec2024 21:42:21.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2488ms or 49 ticks behind
+[20Dec2024 21:42:39.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2686ms or 53 ticks behind
+[20Dec2024 21:42:41.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 371.500000, 64.500000, -3704.500000]
+[20Dec2024 21:42:56.353] [Worker-Main-8/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[#79,Worker-Main-8,5,main]
+java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.clone(Long2ObjectOpenHashMap.java:1332) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.lighting.BlockLightSectionStorage$BlockDataLayerStorageMap.m_5972_(BlockLightSectionStorage.java:36) ~[server-1.20.1-20230612.114412-srg.jar%23355!/:?]
+	at net.minecraft.world.level.lighting.BlockLightSectionStorage$BlockDataLayerStorageMap.m_5972_(BlockLightSectionStorage.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23355!/:?]
+	at net.minecraft.world.level.lighting.LayerLightSectionStorage.m_75790_(LayerLightSectionStorage.java:287) ~[server-1.20.1-20230612.114412-srg.jar%23355!/:?]
+	at net.minecraft.world.level.lighting.LightEngine.m_9323_(LightEngine.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23355!/:?]
+	at net.minecraft.world.level.lighting.LevelLightEngine.m_9323_(LevelLightEngine.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23355!/:?]
+	at net.minecraft.server.level.ThreadedLevelLightEngine.m_9366_(ThreadedLevelLightEngine.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23355!/:?]
+	at net.minecraft.server.level.ThreadedLevelLightEngine.m_215156_(ThreadedLevelLightEngine.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23355!/:?]
+	at net.minecraft.server.level.ThreadedLevelLightEngine$$Lambda/0x00007f562f827d18.run(Unknown Source) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23355!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23355!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23355!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[20Dec2024 21:43:00.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5831ms or 116 ticks behind
+[20Dec2024 21:43:11.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [Enchantments from the Depths]
+[20Dec2024 21:43:11.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has completed the challenge [Draconic Enchanting]

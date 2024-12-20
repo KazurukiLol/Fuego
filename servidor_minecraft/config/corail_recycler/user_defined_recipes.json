@@ -1,32 +1,9 @@
 [
   {
-    "inputItem": "gobber2:gobber2_rod_nether:2",
+    "inputItem": "soulslikeuniverse:hollowsoul:2",
     "outputItems": [
-      "gobber2:gobber2_ingot_nether:2"
-    ]
-  },
-  {
-    "inputItem": "terramity:dr_binty:1",
-    "outputItems": [
-      "minecraft:honey_bottle:1",
-      "minecraft:sugar:1",
-      "terramity:fairy_dust:1"
-    ]
-  },
-  {
-    "inputItem": "sophisticatedbackpacks:smelting_upgrade:1",
-    "outputItems": [
-      "minecraft:redstone:4",
-      "minecraft:iron_ingot:3",
-      "sophisticatedbackpacks:upgrade_base:1",
-      "minecraft:furnace:1"
-    ]
-  },
-  {
-    "inputItem": "minecraft:crying_obsidian:1",
-    "outputItems": [
-      "soulslikeuniverse:giantsoul:4",
-      "minecraft:obsidian:1"
+      "minecraft:copper_ingot:4",
+      "minecraft:quartz:1"
     ]
   },
   {
@@ -37,9 +14,18 @@
     ]
   },
   {
-    "inputItem": "minecraft:honeycomb:6",
+    "inputItem": "gobber2:gobber2_rod_end:2",
     "outputItems": [
-      "mysticalagriculture:honey_essence:3"
+      "gobber2:gobber2_ingot_end:2"
+    ]
+  },
+  {
+    "inputItem": "sophisticatedbackpacks:smelting_upgrade:1",
+    "outputItems": [
+      "minecraft:redstone:4",
+      "minecraft:iron_ingot:3",
+      "sophisticatedbackpacks:upgrade_base:1",
+      "minecraft:furnace:1"
     ]
   },
   {
@@ -57,10 +43,37 @@
     ]
   },
   {
+    "inputItem": "iceandfire:sickly_dragon_meal:1",
+    "outputItems": [
+      "minecraft:spider_eye:4",
+      "minecraft:poisonous_potato:4",
+      "iceandfire:dragon_meal:1"
+    ]
+  },
+  {
+    "inputItem": "terramity:onyx:9",
+    "outputItems": [
+      "terramity:onyx_block:1"
+    ]
+  },
+  {
+    "inputItem": "minecraft:crying_obsidian:1",
+    "outputItems": [
+      "soulslikeuniverse:giantsoul:4",
+      "minecraft:obsidian:1"
+    ]
+  },
+  {
     "inputItem": "not_just_sandwich:cod_sandwich:1",
     "outputItems": [
       "not_just_sandwich:cut_bread:2",
       "minecraft:cooked_cod:1"
+    ]
+  },
+  {
+    "inputItem": "gobber2:gobber2_rod_nether:2",
+    "outputItems": [
+      "gobber2:gobber2_ingot_nether:2"
     ]
   },
   {
@@ -70,10 +83,17 @@
     ]
   },
   {
-    "inputItem": "soulslikeuniverse:hollowsoul:2",
+    "inputItem": "minecraft:honeycomb:6",
     "outputItems": [
-      "minecraft:copper_ingot:4",
-      "minecraft:quartz:1"
+      "mysticalagriculture:honey_essence:3"
+    ]
+  },
+  {
+    "inputItem": "terramity:dr_binty:1",
+    "outputItems": [
+      "minecraft:honey_bottle:1",
+      "minecraft:sugar:1",
+      "terramity:fairy_dust:1"
     ]
   }
 ]

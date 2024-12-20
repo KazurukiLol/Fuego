@@ -8993,5 +8993,11 @@
     },
     "done": true
   },
+  "soulslikeuniverse:exorcism": {
+    "criteria": {
+      "exorcism": "2024-12-20 21:35:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
