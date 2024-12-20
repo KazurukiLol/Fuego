@@ -6375,25 +6375,25 @@
   },
   "vampirism:hunter/technology": {
     "criteria": {
-      "main": "2024-12-17 20:32:47 +0000"
+      "main": "2024-12-20 00:16:09 +0000"
     },
     "done": false
   },
   "vampirism:hunter/kill_resurrected_vampire": {
     "criteria": {
-      "main": "2024-12-17 20:32:47 +0000"
+      "main": "2024-12-20 00:16:09 +0000"
     },
     "done": false
   },
   "vampirism:hunter/max_lord": {
     "criteria": {
-      "main": "2024-12-17 20:32:47 +0000"
+      "main": "2024-12-20 00:16:09 +0000"
     },
     "done": false
   },
   "vampirism:hunter/cure_vampire_villager": {
     "criteria": {
-      "main": "2024-12-17 20:32:47 +0000"
+      "main": "2024-12-20 00:16:09 +0000"
     },
     "done": false
   },
@@ -6406,7 +6406,7 @@
   },
   "vampirism:hunter/kill_mother": {
     "criteria": {
-      "main": "2024-12-17 20:32:47 +0000"
+      "main": "2024-12-20 00:16:09 +0000"
     },
     "done": false
   },
@@ -7025,6 +7025,12 @@
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2024-12-19 23:51:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/max_level": {
+    "criteria": {
+      "level": "2024-12-20 00:15:58 +0000"
     },
     "done": true
   },
