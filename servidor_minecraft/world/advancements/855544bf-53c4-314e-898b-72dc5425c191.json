@@ -7669,5 +7669,11 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2024-12-20 23:34:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

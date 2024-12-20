@@ -3443,6 +3443,7 @@
     "criteria": {
       "dagger": "2024-12-15 03:12:16 +0000",
       "endlight_bow": "2024-12-20 04:32:58 +0000",
+      "magmus_charger": "2024-12-20 23:33:51 +0000",
       "end_excalibur": "2024-12-20 04:40:03 +0000",
       "mega_hammer": "2024-12-20 20:49:29 +0000"
     },
@@ -9112,6 +9113,24 @@
   "alexsmobs:alexsmobs/cosmic_cod": {
     "criteria": {
       "capsid": "2024-12-20 23:09:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-20 23:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 23:30:14 +0000"
     },
     "done": true
   },
