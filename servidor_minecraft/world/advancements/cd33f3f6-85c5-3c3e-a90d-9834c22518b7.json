@@ -6232,9 +6232,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 02:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 02:33:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2024-12-20 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 02:33:13 +0000"
     },
     "done": true
   },
@@ -6244,9 +6262,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 02:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 02:33:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2024-12-20 02:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 02:33:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-20 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-20 02:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 02:33:13 +0000"
     },
     "done": true
   },

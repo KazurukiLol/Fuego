@@ -8413,6 +8413,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/uranium": {
     "criteria": {
       "uranium": "2024-12-20 01:05:26 +0000"
@@ -8456,6 +8480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
+    },
+    "done": true
+  },
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2024-12-20 00:56:46 +0000"
@@ -8483,6 +8513,12 @@
   "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
       "has_item": "2024-12-20 01:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
     },
     "done": true
   },
@@ -8536,9 +8572,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/sulfur_dust": {
     "criteria": {
       "sulfur_dust": "2024-12-20 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
     },
     "done": true
   },
@@ -8554,9 +8608,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-20 01:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
     },
     "done": true
   },
@@ -8569,6 +8641,18 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-20 01:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-20 02:27:39 +0000"
     },
     "done": true
   },
