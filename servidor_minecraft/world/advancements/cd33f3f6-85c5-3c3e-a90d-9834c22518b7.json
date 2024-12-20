@@ -842,6 +842,7 @@
       "highland": "2024-12-15 22:27:06 +0000",
       "clover_patch": "2024-12-18 01:47:45 +0000",
       "maple_woods": "2024-12-20 00:53:00 +0000",
+      "crystalline_chasm": "2024-12-20 22:32:04 +0000",
       "orchard": "2024-12-14 20:12:47 +0000",
       "field": "2024-12-15 22:56:00 +0000",
       "coniferous_forest": "2024-12-14 03:38:02 +0000",
@@ -6607,6 +6608,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-20 22:32:36 +0000"
+    },
+    "done": false
+  },
   "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 22:07:48 +0000"
@@ -6655,6 +6662,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2024-12-20 22:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 22:32:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
@@ -6679,6 +6698,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-20 22:31:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
@@ -6697,6 +6722,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2024-12-20 22:32:04 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/nether_fortress_core": {
+    "criteria": {
+      "blowgun": "2024-12-20 22:36:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
@@ -6712,6 +6749,18 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-20 22:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-20 22:36:08 +0000"
     },
     "done": true
   },
