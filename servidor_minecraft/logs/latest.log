@@ -2785,3 +2785,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [20Dec2024 21:09:12.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! -0.3523448552937225,0.0,-10.88002933785242
 [20Dec2024 21:10:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
 [20Dec2024 21:10:18.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Double Trouble]
+[20Dec2024 21:12:23.432] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56f98904[id=<null>,name=Graniter82a,properties={},legacy=false] (/172.30.89.163:50887) lost connection: Disconnected
+[20Dec2024 21:12:32.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 22.063901492433388,-1.9424277526289018,-29.034072084815193
+[20Dec2024 21:12:35.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! -16.678907280555904,3.504495864572249,-6.486909524904377
+[20Dec2024 21:12:38.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 46.116131890737734,-71.02698774220086,-45.02297504512717
+[20Dec2024 21:12:47.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[20Dec2024 21:12:57.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 21:14:55.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved wrongly!
+[20Dec2024 21:17:44.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[20Dec2024 21:18:36.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 1 block(s)]
+[20Dec2024 21:20:24.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Graniter82a[/172.30.89.163:62196] logged in with entity id 23384 at (4083.466552734375, -11.232177019119263, 2072.2001953125)
+[20Dec2024 21:20:24.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a joined the game
+[20Dec2024 21:20:30.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[20Dec2024 21:20:31.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! 9.711569375700947,0.0,4.708779557167077
+[20Dec2024 21:20:36.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 21:21:06.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -1660.500000, -22.500000, 857.500000]
+[20Dec2024 21:21:06.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved too quickly! -6.246616196795458,0.0,8.36139195722967
+[20Dec2024 21:21:55.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Graniter82a]
