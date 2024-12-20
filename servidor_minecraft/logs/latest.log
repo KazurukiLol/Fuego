@@ -11415,3 +11415,7 @@
 [20Dec2024 03:00:49.382] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/228368, l='ServerLevel[world]', x=1883.81, y=3.76, z=-2146.05]
 [20Dec2024 03:00:49.382] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/228369, l='ServerLevel[world]', x=1890.85, y=2.68, z=-2146.42]
 [20Dec2024 03:00:49.382] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/228370, l='ServerLevel[world]', x=1893.22, y=1.61, z=-2146.87]
+[20Dec2024 03:03:24.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[20Dec2024 03:03:39.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 371.500000, 64.500000, -3704.500000]
+[20Dec2024 03:04:11.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[20Dec2024 03:07:50.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Lead] to Kazuruki]

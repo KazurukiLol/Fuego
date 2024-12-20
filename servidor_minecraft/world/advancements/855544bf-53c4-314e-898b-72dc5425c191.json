@@ -7109,24 +7109,6 @@
     },
     "done": true
   },
-  "terramity:stone_mask_advancement": {
-    "criteria": {
-      "stone_mask_advancement_0": "2024-12-20 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2024-12-20 02:53:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2024-12-20 02:53:17 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2024-12-20 01:36:14 +0000"
@@ -7136,12 +7118,6 @@
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2024-12-20 01:36:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-20 02:53:17 +0000"
     },
     "done": true
   },
@@ -7157,21 +7133,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/ride_nuclear_bomb": {
-    "criteria": {
-      "ride_a_boat_with_a_goat": "2024-12-20 01:58:09 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-12-20 01:36:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2024-12-20 02:53:17 +0000"
     },
     "done": true
   },
@@ -7187,15 +7151,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
-      "has_planks": "2024-12-20 02:53:17 +0000"
+      "has_item": "2024-12-20 01:36:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-20 01:36:14 +0000"
+    },
+    "done": true
+  },
+  "terramity:stone_mask_advancement": {
+    "criteria": {
+      "stone_mask_advancement_0": "2024-12-20 01:42:58 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/defeat_nucleeper": {
     "criteria": {
       "killed": "2024-12-20 01:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-12-20 01:53:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_nuclear_bomb": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2024-12-20 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-20 02:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 02:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-20 02:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-20 02:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 02:53:17 +0000"
     },
     "done": true
   },
@@ -7214,24 +7232,6 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-20 02:53:17 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2024-12-20 01:36:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2024-12-20 01:53:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_horn": {
-    "criteria": {
-      "has_item": "2024-12-20 01:36:14 +0000"
     },
     "done": true
   },
