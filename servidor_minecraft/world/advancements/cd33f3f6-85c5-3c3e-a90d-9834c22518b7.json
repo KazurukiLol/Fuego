@@ -854,6 +854,7 @@
       "pumpkin_patch": "2024-12-14 03:35:30 +0000",
       "prairie": "2024-12-14 03:38:57 +0000",
       "grassland": "2024-12-14 20:07:46 +0000",
+      "glowing_grotto": "2024-12-20 21:21:56 +0000",
       "crag": "2024-12-15 22:43:03 +0000"
     },
     "done": false
@@ -6555,6 +6556,12 @@
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2024-12-20 21:11:23 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod_end": {
+    "criteria": {
+      "gobber2_rod_end": "2024-12-20 21:28:10 +0000"
     },
     "done": true
   },
