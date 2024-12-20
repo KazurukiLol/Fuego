@@ -945,7 +945,8 @@
       "bread": "2024-12-14 04:39:07 +0000",
       "cookie": "2024-12-14 06:10:32 +0000",
       "rotten_flesh": "2024-12-14 03:25:15 +0000",
-      "golden_carrot": "2024-12-15 03:49:13 +0000"
+      "golden_carrot": "2024-12-15 03:49:13 +0000",
+      "enchanted_golden_apple": "2024-12-20 21:40:13 +0000"
     },
     "done": false
   },
@@ -7196,6 +7197,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_pickaxe_nether": {
+    "criteria": {
+      "gobber2_pickaxe_nether": "2024-12-20 21:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-20 21:31:47 +0000"
@@ -7211,6 +7218,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-20 21:31:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2024-12-20 21:40:41 +0000"
     },
     "done": true
   },
@@ -7244,9 +7257,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-20 21:47:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-20 21:31:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/100ench": {
+    "criteria": {
+      "enchanted_item": "2024-12-20 21:43:11 +0000"
     },
     "done": true
   },
@@ -7256,9 +7281,21 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2024-12-20 21:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-20 21:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-20 21:47:49 +0000"
     },
     "done": true
   },
@@ -7331,6 +7368,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-20 21:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-20 21:39:36 +0000"
     },
     "done": true
   },

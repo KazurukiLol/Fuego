@@ -6565,6 +6565,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ingot_end": {
+    "criteria": {
+      "gobber2_ingot_end": "2024-12-20 21:39:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2024-12-20 21:06:52 +0000"

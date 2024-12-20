@@ -43,11 +43,24 @@
     ]
   },
   {
+    "inputItem": "minecraft:spider_eye:4",
+    "outputItems": [
+      "mysticalagriculture:spider_essence:8"
+    ]
+  },
+  {
     "inputItem": "iceandfire:sickly_dragon_meal:1",
     "outputItems": [
       "minecraft:spider_eye:4",
       "minecraft:poisonous_potato:4",
       "iceandfire:dragon_meal:1"
+    ]
+  },
+  {
+    "inputItem": "minecraft:poisonous_potato:1",
+    "outputItems": [
+      "minecraft:potato:1",
+      "mysticalagriculture:nature_essence:1"
     ]
   },
   {

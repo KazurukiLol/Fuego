@@ -3010,3 +3010,161 @@ java.lang.OutOfMemoryError: Java heap space
 [20Dec2024 21:43:00.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5831ms or 116 ticks behind
 [20Dec2024 21:43:11.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [Enchantments from the Depths]
 [20Dec2024 21:43:11.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has completed the challenge [Draconic Enchanting]
+[20Dec2024 21:43:17.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[20Dec2024 21:43:18.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20Dec2024 21:43:37.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4091ms or 81 ticks behind
+[20Dec2024 21:43:45.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Graniter82a no longer a server operator]
+[20Dec2024 21:43:45.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved wrongly!
+[20Dec2024 21:44:13.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20Dec2024 21:44:54.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[20Dec2024 21:45:11.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
+[20Dec2024 21:45:21.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[20Dec2024 21:45:27.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 21:45:30.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4042ms or 80 ticks behind
+[20Dec2024 21:45:49.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3519ms or 70 ticks behind
+[20Dec2024 21:45:49.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Strength to Kazuruki]
+[20Dec2024 21:45:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was slain by Kazuruki
+[20Dec2024 21:45:57.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from 4 targets]
+[20Dec2024 21:46:07.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3450ms or 69 ticks behind
+[20Dec2024 21:46:14.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from 4 targets]
+[20Dec2024 21:46:25.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
+[20Dec2024 21:46:40.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Graniter82a a server operator]
+[20Dec2024 21:46:43.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[20Dec2024 21:46:45.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was obliterated by a sonically-charged shriek whilst trying to escape Graniter82a
+[20Dec2024 21:47:01.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3146ms or 62 ticks behind
+[20Dec2024 21:47:19.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
+[20Dec2024 21:47:36.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Dec2024 21:47:43.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[20Dec2024 21:47:47.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[20Dec2024 21:47:55.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4029ms or 80 ticks behind
+[20Dec2024 21:48:04.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has reached the goal [Quaint Scribe]
+[20Dec2024 21:48:09.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[20Dec2024 21:48:16.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 21:48:51.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was slain by Graniter82a
+[20Dec2024 21:48:59.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=-56, z=-3637} BlockPos{x=375, y=-57, z=-3636}
+[20Dec2024 21:48:59.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=-57, z=-3639} BlockPos{x=375, y=-56, z=-3637}
+[20Dec2024 21:48:59.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=-57, z=-3639} BlockPos{x=375, y=-56, z=-3637}
+[20Dec2024 21:48:59.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=-57, z=-3639} BlockPos{x=375, y=-56, z=-3637}
+[20Dec2024 21:48:59.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=-57, z=-3639} BlockPos{x=375, y=-56, z=-3637}
+[20Dec2024 21:48:59.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-57, z=-3639} BlockPos{x=375, y=-56, z=-3637}
+[20Dec2024 21:48:59.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-57, z=-3639} BlockPos{x=375, y=-56, z=-3637}
+[20Dec2024 21:49:00.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=-58, z=-3638} BlockPos{x=375, y=-57, z=-3638}
+[20Dec2024 21:49:00.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=-58, z=-3638} BlockPos{x=375, y=-57, z=-3638}
+[20Dec2024 21:49:00.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=-58, z=-3637} BlockPos{x=375, y=-57, z=-3638}
+[20Dec2024 21:49:00.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-57, z=-3639} BlockPos{x=372, y=-57, z=-3639}
+[20Dec2024 21:49:00.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-57, z=-3639} BlockPos{x=372, y=-57, z=-3639}
+[20Dec2024 21:49:00.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-58, z=-3640} BlockPos{x=372, y=-57, z=-3639}
+[20Dec2024 21:49:00.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-58, z=-3640} BlockPos{x=372, y=-57, z=-3639}
+[20Dec2024 21:49:01.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-58, z=-3639} BlockPos{x=371, y=-58, z=-3640}
+[20Dec2024 21:49:01.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-58, z=-3639} BlockPos{x=371, y=-58, z=-3640}
+[20Dec2024 21:49:01.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-58, z=-3639} BlockPos{x=371, y=-58, z=-3640}
+[20Dec2024 21:49:01.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-59, z=-3639} BlockPos{x=370, y=-59, z=-3637}
+[20Dec2024 21:49:01.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-59, z=-3639} BlockPos{x=370, y=-59, z=-3637}
+[20Dec2024 21:49:01.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-59, z=-3638} BlockPos{x=370, y=-59, z=-3637}
+[20Dec2024 21:49:02.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-59, z=-3638} BlockPos{x=370, y=-59, z=-3637}
+[20Dec2024 21:49:02.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Dec2024 21:49:02.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-59, z=-3638} BlockPos{x=371, y=-59, z=-3637}
+[20Dec2024 21:49:02.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-59, z=-3638} BlockPos{x=371, y=-59, z=-3637}
+[20Dec2024 21:49:02.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-59, z=-3638} BlockPos{x=371, y=-59, z=-3637}
+[20Dec2024 21:49:02.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=-59, z=-3637} BlockPos{x=373, y=-59, z=-3638}
+[20Dec2024 21:49:02.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=-59, z=-3637} BlockPos{x=373, y=-59, z=-3638}
+[20Dec2024 21:49:02.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=-59, z=-3636} BlockPos{x=373, y=-59, z=-3638}
+[20Dec2024 21:49:03.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=-59, z=-3636} BlockPos{x=373, y=-59, z=-3638}
+[20Dec2024 21:49:03.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=-59, z=-3636} BlockPos{x=373, y=-59, z=-3638}
+[20Dec2024 21:49:04.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-59, z=-3638} BlockPos{x=372, y=-59, z=-3639}
+[20Dec2024 21:49:04.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-59, z=-3637} BlockPos{x=371, y=-59, z=-3638}
+[20Dec2024 21:49:04.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-59, z=-3637} BlockPos{x=371, y=-59, z=-3638}
+[20Dec2024 21:49:04.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-59, z=-3636} BlockPos{x=371, y=-59, z=-3637}
+[20Dec2024 21:49:05.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-59, z=-3636} BlockPos{x=371, y=-59, z=-3637}
+[20Dec2024 21:49:05.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=-60, z=-3636} BlockPos{x=372, y=-59, z=-3637}
+[20Dec2024 21:49:05.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-60, z=-3636} BlockPos{x=372, y=-59, z=-3637}
+[20Dec2024 21:49:06.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-56, z=-3639} BlockPos{x=372, y=-57, z=-3639}
+[20Dec2024 21:49:06.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-56, z=-3639} BlockPos{x=372, y=-57, z=-3639}
+[20Dec2024 21:49:06.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=-55, z=-3638} BlockPos{x=372, y=-56, z=-3639}
+[20Dec2024 21:49:06.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=-55, z=-3638} BlockPos{x=372, y=-56, z=-3639}
+[20Dec2024 21:49:06.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=-55, z=-3637} BlockPos{x=373, y=-55, z=-3638}
+[20Dec2024 21:49:07.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=-56, z=-3635} BlockPos{x=375, y=-56, z=-3636}
+[20Dec2024 21:49:07.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=-56, z=-3635} BlockPos{x=375, y=-56, z=-3636}
+[20Dec2024 21:49:07.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=-56, z=-3635} BlockPos{x=375, y=-56, z=-3636}
+[20Dec2024 21:49:07.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=-56, z=-3635} BlockPos{x=375, y=-56, z=-3636}
+[20Dec2024 21:49:07.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=-56, z=-3635} BlockPos{x=375, y=-56, z=-3636}
+[20Dec2024 21:49:07.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=-56, z=-3635} BlockPos{x=375, y=-56, z=-3636}
+[20Dec2024 21:49:07.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=-59, z=-3635} BlockPos{x=374, y=-59, z=-3636}
+[20Dec2024 21:49:07.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=-59, z=-3635} BlockPos{x=374, y=-59, z=-3636}
+[20Dec2024 21:49:07.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=-59, z=-3635} BlockPos{x=374, y=-59, z=-3636}
+[20Dec2024 21:49:08.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-55, z=-3637} BlockPos{x=373, y=-55, z=-3637}
+[20Dec2024 21:49:09.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-55, z=-3637} BlockPos{x=373, y=-55, z=-3637}
+[20Dec2024 21:49:09.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-55, z=-3637} BlockPos{x=373, y=-55, z=-3637}
+[20Dec2024 21:49:09.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-55, z=-3636} BlockPos{x=373, y=-55, z=-3637}
+[20Dec2024 21:49:09.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-55, z=-3636} BlockPos{x=373, y=-55, z=-3637}
+[20Dec2024 21:49:09.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-55, z=-3635} BlockPos{x=372, y=-55, z=-3636}
+[20Dec2024 21:49:09.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-55, z=-3635} BlockPos{x=372, y=-55, z=-3636}
+[20Dec2024 21:49:09.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-55, z=-3635} BlockPos{x=372, y=-55, z=-3636}
+[20Dec2024 21:49:09.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-56, z=-3634} BlockPos{x=371, y=-55, z=-3634}
+[20Dec2024 21:49:09.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-56, z=-3634} BlockPos{x=371, y=-55, z=-3634}
+[20Dec2024 21:49:09.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-57, z=-3635} BlockPos{x=371, y=-55, z=-3634}
+[20Dec2024 21:49:09.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-57, z=-3635} BlockPos{x=371, y=-55, z=-3634}
+[20Dec2024 21:49:10.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-57, z=-3636} BlockPos{x=370, y=-57, z=-3635}
+[20Dec2024 21:49:10.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-57, z=-3636} BlockPos{x=370, y=-57, z=-3635}
+[20Dec2024 21:49:10.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-57, z=-3632} BlockPos{x=371, y=-58, z=-3633}
+[20Dec2024 21:49:10.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-57, z=-3632} BlockPos{x=371, y=-58, z=-3633}
+[20Dec2024 21:49:10.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-57, z=-3632} BlockPos{x=371, y=-58, z=-3633}
+[20Dec2024 21:49:12.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-56, z=-3637} BlockPos{x=370, y=-57, z=-3637}
+[20Dec2024 21:49:12.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-56, z=-3636} BlockPos{x=370, y=-57, z=-3637}
+[20Dec2024 21:49:12.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-56, z=-3639} BlockPos{x=371, y=-57, z=-3639}
+[20Dec2024 21:49:12.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-56, z=-3639} BlockPos{x=371, y=-57, z=-3639}
+[20Dec2024 21:49:12.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-56, z=-3639} BlockPos{x=371, y=-57, z=-3639}
+[20Dec2024 21:49:13.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-58, z=-3635} BlockPos{x=368, y=-58, z=-3635}
+[20Dec2024 21:49:17.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=-58, z=-3652} BlockPos{x=369, y=-60, z=-3652}
+[20Dec2024 21:49:17.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=-58, z=-3652} BlockPos{x=369, y=-60, z=-3652}
+[20Dec2024 21:49:17.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=-58, z=-3652} BlockPos{x=369, y=-60, z=-3652}
+[20Dec2024 21:49:17.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=-58, z=-3652} BlockPos{x=369, y=-60, z=-3652}
+[20Dec2024 21:49:17.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=-59, z=-3651} BlockPos{x=369, y=-58, z=-3652}
+[20Dec2024 21:49:19.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=-59, z=-3648} BlockPos{x=368, y=-59, z=-3651}
+[20Dec2024 21:49:19.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=-59, z=-3648} BlockPos{x=368, y=-59, z=-3651}
+[20Dec2024 21:49:19.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=-59, z=-3648} BlockPos{x=368, y=-59, z=-3651}
+[20Dec2024 21:49:21.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=367, y=-56, z=-3653} BlockPos{x=370, y=-59, z=-3651}
+[20Dec2024 21:49:22.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Dec2024 21:49:22.125] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Reinforced Gravel'/57189, l='ServerLevel[world]', x=368.50, y=-55.00, z=-3654.50]
+[20Dec2024 21:49:25.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-49, z=-3654} BlockPos{x=369, y=-54, z=-3655}
+[20Dec2024 21:49:25.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-49, z=-3654} BlockPos{x=369, y=-54, z=-3655}
+[20Dec2024 21:49:25.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=-49, z=-3654} BlockPos{x=369, y=-54, z=-3655}
+[20Dec2024 21:49:25.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-50, z=-3655} BlockPos{x=369, y=-54, z=-3655}
+[20Dec2024 21:49:25.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=-50, z=-3655} BlockPos{x=369, y=-54, z=-3655}
+[20Dec2024 21:49:25.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=-52, z=-3654} BlockPos{x=369, y=-54, z=-3655}
+[20Dec2024 21:49:25.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=-47, z=-3654} BlockPos{x=369, y=-53, z=-3653}
+[20Dec2024 21:49:26.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=-47, z=-3654} BlockPos{x=369, y=-53, z=-3653}
+[20Dec2024 21:49:26.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=-57, z=-3653} BlockPos{x=366, y=-57, z=-3652}
+[20Dec2024 21:49:26.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=-57, z=-3653} BlockPos{x=366, y=-57, z=-3652}
+[20Dec2024 21:49:26.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=-55, z=-3653} BlockPos{x=366, y=-57, z=-3652}
+[20Dec2024 21:49:27.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=-56, z=-3654} BlockPos{x=367, y=-55, z=-3652}
+[20Dec2024 21:49:38.801] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Reinforced Gravel'/57396, l='ServerLevel[world]', x=367.50, y=-56.00, z=-3654.50]
+[20Dec2024 21:49:38.925] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Reinforced Gravel'/57398, l='ServerLevel[world]', x=367.50, y=-55.00, z=-3654.50]
+[20Dec2024 21:49:39.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Dec2024 21:50:01.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 62.500000, 102.500000, -5307.500000]
+[20Dec2024 21:50:02.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[20Dec2024 21:50:05.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[20Dec2024 21:50:06.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Graniter82a to Sanity15]
+[20Dec2024 21:50:20.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3257ms or 65 ticks behind
+[20Dec2024 21:50:35.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has reached the goal [New Age Librarian]
+[20Dec2024 21:50:39.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
+[20Dec2024 21:50:41.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 62.500000, 102.500000, -5307.500000]
+[20Dec2024 21:50:59.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4975ms or 99 ticks behind
+[20Dec2024 21:51:03.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Reinforced Glass] to Kazuruki]
+[20Dec2024 21:51:13.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 365.500000, -58.500000, -3638.500000]
+[20Dec2024 21:51:15.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[20Dec2024 21:51:18.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4606ms or 92 ticks behind
+[20Dec2024 21:51:35.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[20Dec2024 21:51:43.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Gave 2000000 experience points to Graniter82a]
+[20Dec2024 21:52:00.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Graniter82a to 358.500000, -52.000000, -3637.500000]
+[20Dec2024 21:52:01.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Dec2024 21:52:04.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 365.500000, -58.500000, -3638.500000]
+[20Dec2024 21:52:08.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made g no longer a server operator]
+[20Dec2024 21:52:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Graniter82a no longer a server operator]
+[20Dec2024 21:52:16.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[20Dec2024 21:52:18.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[20Dec2024 21:52:18.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has completed the challenge [It's Purple!]
+[20Dec2024 21:52:38.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Graniter82a to Kazuruki]
+[20Dec2024 21:52:41.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[20Dec2024 21:52:46.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Dec2024 21:52:54.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Sanity15 to Kazuruki]

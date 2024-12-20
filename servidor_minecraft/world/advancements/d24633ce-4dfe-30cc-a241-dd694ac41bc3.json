@@ -799,7 +799,9 @@
     "criteria": {
       "minecraft:taiga": "2024-12-17 02:58:34 +0000",
       "minecraft:frozen_river": "2024-12-14 03:37:35 +0000",
+      "minecraft:birch_forest": "2024-12-20 21:41:54 +0000",
       "minecraft:beach": "2024-12-14 20:55:26 +0000",
+      "minecraft:dark_forest": "2024-12-20 21:39:03 +0000",
       "minecraft:river": "2024-12-14 03:19:01 +0000",
       "minecraft:lukewarm_ocean": "2024-12-15 04:55:31 +0000",
       "minecraft:snowy_plains": "2024-12-14 03:55:21 +0000",
@@ -8981,15 +8983,39 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2024-12-20 21:50:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-20 21:48:04 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2024-12-20 20:44:49 +0000"
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-20 21:48:04 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2024-12-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-20 21:48:04 +0000"
     },
     "done": true
   },
