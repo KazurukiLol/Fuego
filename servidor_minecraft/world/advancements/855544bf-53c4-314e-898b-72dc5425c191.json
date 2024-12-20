@@ -1418,6 +1418,7 @@
       "snowblossom_grove": "2024-12-18 22:41:34 +0000",
       "rocky_shrubland": "2024-12-14 03:34:14 +0000",
       "erupting_inferno": "2024-12-15 04:10:41 +0000",
+      "highland": "2024-12-20 03:39:33 +0000",
       "clover_patch": "2024-12-16 19:11:55 +0000",
       "maple_woods": "2024-12-15 07:17:27 +0000",
       "crystalline_chasm": "2024-12-15 03:23:22 +0000",
@@ -7239,6 +7240,30 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-20 02:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-20 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2024-12-20 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 03:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-20 03:36:10 +0000"
     },
     "done": true
   },
