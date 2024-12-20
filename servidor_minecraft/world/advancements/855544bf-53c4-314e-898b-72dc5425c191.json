@@ -7555,27 +7555,39 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/nuclear_bomb": {
-    "criteria": {
-      "nuclear_bomb": "2024-12-20 21:25:29 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2024-12-20 20:46:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
+  "alexsmobs:alexsmobs/mysterious_worm": {
     "criteria": {
-      "has_purpur_block": "2024-12-20 21:11:02 +0000"
+      "mysterious_worm": "2024-12-20 21:00:34 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2024-12-20 21:01:04 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/weapon/end_excalibur": {
+    "criteria": {
+      "end_excalibur": "2024-12-20 21:04:46 +0000"
     },
     "done": true
   },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2024-12-20 21:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-12-20 21:11:02 +0000"
     },
     "done": true
   },
@@ -7597,39 +7609,33 @@
     },
     "done": true
   },
-  "soulslikeuniverse:abysswatcherhunter": {
-    "criteria": {
-      "abysswatcherhunter": "2024-12-20 21:40:12 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/mythic": {
-    "criteria": {
-      "sword": "2024-12-20 21:01:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2024-12-20 21:11:02 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/mysterious_worm": {
-    "criteria": {
-      "mysterious_worm": "2024-12-20 21:00:34 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:spellbound/weapon/end_excalibur": {
-    "criteria": {
-      "end_excalibur": "2024-12-20 21:04:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-12-20 21:11:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2024-12-20 21:25:29 +0000"
+    },
+    "done": true
+  },
+  "soulslikeuniverse:abysswatcherhunter": {
+    "criteria": {
+      "abysswatcherhunter": "2024-12-20 21:40:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2024-12-20 21:54:54 +0000"
     },
     "done": true
   },

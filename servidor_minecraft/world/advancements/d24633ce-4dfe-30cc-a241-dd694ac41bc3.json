@@ -8983,27 +8983,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
-    "criteria": {
-      "scroll_forge": "2024-12-20 21:50:35 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2024-12-20 21:48:04 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2024-12-20 20:44:49 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2024-12-20 21:48:04 +0000"
     },
     "done": true
   },
@@ -9013,15 +8995,51 @@
     },
     "done": true
   },
+  "soulslikeuniverse:exorcism": {
+    "criteria": {
+      "exorcism": "2024-12-20 21:35:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-20 21:48:04 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-20 21:48:04 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2024-12-20 21:48:04 +0000"
     },
     "done": true
   },
-  "soulslikeuniverse:exorcism": {
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
-      "exorcism": "2024-12-20 21:35:17 +0000"
+      "scroll_forge": "2024-12-20 21:50:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-12-20 21:52:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2024-12-20 22:06:46 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-20 22:05:05 +0000"
     },
     "done": true
   },

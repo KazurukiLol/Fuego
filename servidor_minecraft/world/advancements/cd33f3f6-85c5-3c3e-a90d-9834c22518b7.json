@@ -6517,33 +6517,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-12-20 21:11:23 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2024-12-20 20:56:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2024-12-20 21:16:04 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2024-12-20 21:10:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-12-20 21:11:23 +0000"
     },
     "done": true
   },
@@ -6553,27 +6529,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-20 21:06:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-12-20 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-20 21:11:23 +0000"
     },
     "done": true
   },
-  "gobber2:gobber2_rod_end": {
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
-      "gobber2_rod_end": "2024-12-20 21:28:10 +0000"
+      "has_end_stone": "2024-12-20 21:11:23 +0000"
     },
     "done": true
   },
-  "gobber2:gobber2_ingot_end": {
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
-      "gobber2_ingot_end": "2024-12-20 21:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2024-12-20 21:06:52 +0000"
+      "has_end_stone": "2024-12-20 21:11:23 +0000"
     },
     "done": true
   },
@@ -6586,6 +6568,24 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-20 21:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-20 21:16:04 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod_end": {
+    "criteria": {
+      "gobber2_rod_end": "2024-12-20 21:28:10 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot_end": {
+    "criteria": {
+      "gobber2_ingot_end": "2024-12-20 21:39:26 +0000"
     },
     "done": true
   },
