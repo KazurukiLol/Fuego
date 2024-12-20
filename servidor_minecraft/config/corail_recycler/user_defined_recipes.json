@@ -7,9 +7,25 @@
     ]
   },
   {
+    "inputItem": "soulslikeuniverse:oniknight_boots:1",
+    "outputItems": [
+      "minecraft:quartz:2",
+      "minecraft:leather:2",
+      "soulslikeuniverse:ashenone_boots:1",
+      "soulslikeuniverse:hollowsoul:2",
+      "minecraft:iron_ingot:1"
+    ]
+  },
+  {
     "inputItem": "minecraft:honeycomb:6",
     "outputItems": [
       "mysticalagriculture:honey_essence:3"
+    ]
+  },
+  {
+    "inputItem": "minecraft:chainmail_helmet:1",
+    "outputItems": [
+      "minecraft:chain:5"
     ]
   },
   {
@@ -43,6 +59,12 @@
     "outputItems": [
       "minecraft:potato:1",
       "mysticalagriculture:nature_essence:1"
+    ]
+  },
+  {
+    "inputItem": "iceandfire:dragonarmor_iron_neck:1",
+    "outputItems": [
+      "minecraft:iron_block:5"
     ]
   },
   {

@@ -1333,9 +1333,10 @@
   },
   "corail_recycler:recipes/netherite_disk": {
     "criteria": {
-      "requirement_2": "2024-12-14 03:33:38 +0000"
+      "requirement_2": "2024-12-14 03:33:38 +0000",
+      "requirement_1": "2024-12-20 22:52:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:recipes/decorations/hunter/item_med_chair": {
     "criteria": {
@@ -6604,6 +6605,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 22:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
@@ -6700,6 +6707,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 22:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-20 22:13:57 +0000"
@@ -6766,6 +6779,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 22:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
@@ -6775,6 +6794,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/netherite_nugget": {
+    "criteria": {
+      "requirement": "2024-12-20 22:52:47 +0000"
     },
     "done": true
   },
