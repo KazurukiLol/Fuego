@@ -805,6 +805,7 @@
     "criteria": {
       "minecraft:taiga": "2024-12-15 22:42:21 +0000",
       "minecraft:deep_ocean": "2024-12-14 20:09:17 +0000",
+      "minecraft:frozen_river": "2024-12-20 23:08:18 +0000",
       "minecraft:birch_forest": "2024-12-14 20:16:40 +0000",
       "minecraft:beach": "2024-12-14 20:04:13 +0000",
       "minecraft:river": "2024-12-14 03:35:21 +0000",
@@ -6593,6 +6594,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-20 23:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-20 23:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
@@ -6622,6 +6635,12 @@
       "minecraft:soul_sand_valley": "2024-12-20 22:32:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-20 23:07:58 +0000"
+    },
+    "done": true
   },
   "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
@@ -6662,6 +6681,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 22:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-20 23:07:58 +0000"
     },
     "done": true
   },
@@ -6740,6 +6765,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-20 23:07:58 +0000"
     },
     "done": true
   },
@@ -6836,6 +6867,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-20 23:07:58 +0000"
     },
     "done": true
   },
