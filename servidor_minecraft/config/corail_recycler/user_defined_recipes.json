@@ -55,6 +55,12 @@
     ]
   },
   {
+    "inputItem": "mysticalagriculture:inferium_essence:9",
+    "outputItems": [
+      "mysticalagriculture:inferium_block:1"
+    ]
+  },
+  {
     "inputItem": "not_just_sandwich:cod_sandwich:1",
     "outputItems": [
       "not_just_sandwich:cut_bread:2",
@@ -88,6 +94,18 @@
     ]
   },
   {
+    "inputItem": "cyclic:glass_connected:4",
+    "outputItems": [
+      "minecraft:glass:4"
+    ]
+  },
+  {
+    "inputItem": "minecraft:flint:9",
+    "outputItems": [
+      "cyclic:flint_block:1"
+    ]
+  },
+  {
     "inputItem": "minecraft:crying_obsidian:1",
     "outputItems": [
       "soulslikeuniverse:giantsoul:4",
@@ -113,6 +131,12 @@
       "minecraft:honey_bottle:1",
       "minecraft:sugar:1",
       "terramity:fairy_dust:1"
+    ]
+  },
+  {
+    "inputItem": "minecraft:iron_ingot:9",
+    "outputItems": [
+      "minecraft:iron_block:1"
     ]
   }
 ]

@@ -856,7 +856,8 @@
       "prairie": "2024-12-14 03:38:57 +0000",
       "grassland": "2024-12-14 20:07:46 +0000",
       "glowing_grotto": "2024-12-20 21:21:56 +0000",
-      "crag": "2024-12-15 22:43:03 +0000"
+      "crag": "2024-12-15 22:43:03 +0000",
+      "ominous_woods": "2024-12-20 22:40:24 +0000"
     },
     "done": false
   },
@@ -1597,9 +1598,10 @@
   },
   "corail_recycler:recipes/steel_disk": {
     "criteria": {
-      "requirement_2": "2024-12-14 03:33:38 +0000"
+      "requirement_2": "2024-12-14 03:33:38 +0000",
+      "requirement_1": "2024-12-20 22:51:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:recipes/decorations/hunter/alchemical_cauldron": {
     "criteria": {
@@ -6632,6 +6634,18 @@
     },
     "done": true
   },
+  "corail_recycler:tutorial/build_recycler": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/build_disk": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 22:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 22:07:48 +0000"
@@ -6677,6 +6691,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-20 22:51:35 +0000"
     },
     "done": true
   },
@@ -6728,6 +6748,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-20 22:40:41 +0000"
+    },
+    "done": true
+  },
   "1_splatus:spellbound/unlocked/nether_fortress_core": {
     "criteria": {
       "blowgun": "2024-12-20 22:36:08 +0000"
@@ -6749,6 +6775,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-20 22:51:19 +0000"
     },
     "done": true
   },
