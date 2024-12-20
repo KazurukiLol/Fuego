@@ -1,22 +1,48 @@
 [
   {
-    "inputItem": "soulslikeuniverse:hollowsoul:2",
+    "inputItem": "wom:diamond_staff:1",
     "outputItems": [
-      "minecraft:copper_ingot:4",
-      "minecraft:quartz:1"
+      "minecraft:diamond:2",
+      "minecraft:stick:1"
     ]
   },
   {
-    "inputItem": "sophisticatedbackpacks:smoking_upgrade:1",
+    "inputItem": "minecraft:honeycomb:6",
     "outputItems": [
-      "minecraft:dark_oak_log:4",
-      "sophisticatedbackpacks:smelting_upgrade:1"
+      "mysticalagriculture:honey_essence:3"
+    ]
+  },
+  {
+    "inputItem": "iceandfire:sickly_dragon_meal:1",
+    "outputItems": [
+      "minecraft:spider_eye:4",
+      "minecraft:poisonous_potato:4",
+      "iceandfire:dragon_meal:1"
+    ]
+  },
+  {
+    "inputItem": "minecraft:bone_meal:3",
+    "outputItems": [
+      "alexscaves:smooth_bone_wall:1"
+    ]
+  },
+  {
+    "inputItem": "iceandfire:dragonarmor_iron_tail:1",
+    "outputItems": [
+      "minecraft:iron_block:3"
     ]
   },
   {
     "inputItem": "gobber2:gobber2_rod_end:2",
     "outputItems": [
       "gobber2:gobber2_ingot_end:2"
+    ]
+  },
+  {
+    "inputItem": "minecraft:poisonous_potato:1",
+    "outputItems": [
+      "minecraft:potato:1",
+      "mysticalagriculture:nature_essence:1"
     ]
   },
   {
@@ -29,10 +55,10 @@
     ]
   },
   {
-    "inputItem": "wom:diamond_staff:1",
+    "inputItem": "not_just_sandwich:cod_sandwich:1",
     "outputItems": [
-      "minecraft:diamond:2",
-      "minecraft:stick:1"
+      "not_just_sandwich:cut_bread:2",
+      "minecraft:cooked_cod:1"
     ]
   },
   {
@@ -43,30 +69,22 @@
     ]
   },
   {
-    "inputItem": "minecraft:spider_eye:4",
-    "outputItems": [
-      "mysticalagriculture:spider_essence:8"
-    ]
-  },
-  {
-    "inputItem": "iceandfire:sickly_dragon_meal:1",
-    "outputItems": [
-      "minecraft:spider_eye:4",
-      "minecraft:poisonous_potato:4",
-      "iceandfire:dragon_meal:1"
-    ]
-  },
-  {
-    "inputItem": "minecraft:poisonous_potato:1",
-    "outputItems": [
-      "minecraft:potato:1",
-      "mysticalagriculture:nature_essence:1"
-    ]
-  },
-  {
     "inputItem": "terramity:onyx:9",
     "outputItems": [
       "terramity:onyx_block:1"
+    ]
+  },
+  {
+    "inputItem": "soulslikeuniverse:hollowsoul:2",
+    "outputItems": [
+      "minecraft:copper_ingot:4",
+      "minecraft:quartz:1"
+    ]
+  },
+  {
+    "inputItem": "minecraft:spider_eye:4",
+    "outputItems": [
+      "mysticalagriculture:spider_essence:8"
     ]
   },
   {
@@ -77,28 +95,16 @@
     ]
   },
   {
-    "inputItem": "not_just_sandwich:cod_sandwich:1",
+    "inputItem": "sophisticatedbackpacks:smoking_upgrade:1",
     "outputItems": [
-      "not_just_sandwich:cut_bread:2",
-      "minecraft:cooked_cod:1"
+      "minecraft:dark_oak_log:4",
+      "sophisticatedbackpacks:smelting_upgrade:1"
     ]
   },
   {
     "inputItem": "gobber2:gobber2_rod_nether:2",
     "outputItems": [
       "gobber2:gobber2_ingot_nether:2"
-    ]
-  },
-  {
-    "inputItem": "minecraft:bone_meal:3",
-    "outputItems": [
-      "alexscaves:smooth_bone_wall:1"
-    ]
-  },
-  {
-    "inputItem": "minecraft:honeycomb:6",
-    "outputItems": [
-      "mysticalagriculture:honey_essence:3"
     ]
   },
   {
