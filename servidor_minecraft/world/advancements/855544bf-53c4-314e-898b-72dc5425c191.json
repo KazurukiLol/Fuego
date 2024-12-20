@@ -1422,6 +1422,7 @@
       "crystalline_chasm": "2024-12-15 03:23:22 +0000",
       "withered_abyss": "2024-12-17 02:30:31 +0000",
       "orchard": "2024-12-14 20:40:17 +0000",
+      "field": "2024-12-19 23:41:57 +0000",
       "coniferous_forest": "2024-12-14 03:34:08 +0000",
       "spider_nest": "2024-12-14 20:45:51 +0000",
       "redwood_forest": "2024-12-15 04:11:00 +0000",
@@ -2646,6 +2647,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "ajvar_toast": "2024-12-20 00:10:21 +0000",
       "calamari": "2024-12-14 20:50:31 +0000",
       "glowing_calamari": "2024-12-14 04:45:48 +0000"
     },
@@ -6990,6 +6992,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-12-19 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2024-12-20 00:05:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2024-12-20 00:05:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2024-12-19 23:02:33 +0000"
@@ -6999,6 +7019,12 @@
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2024-12-19 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-19 23:51:26 +0000"
     },
     "done": true
   },

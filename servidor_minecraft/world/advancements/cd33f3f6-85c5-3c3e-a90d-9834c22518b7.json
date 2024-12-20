@@ -5612,6 +5612,12 @@
     },
     "done": false
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2024-12-19 23:52:32 +0000"
+    },
+    "done": true
+  },
   "vampirism:hunter/kill_resurrected_vampire": {
     "criteria": {
       "main": "2024-12-19 22:47:39 +0000"
@@ -5666,6 +5672,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2024-12-19 23:52:32 +0000"
+    },
+    "done": true
+  },
   "vampirism:hunter/betrayal": {
     "criteria": {
       "faction": "2024-12-19 22:47:39 +0000"
@@ -5699,6 +5711,18 @@
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2024-12-19 22:14:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2024-12-19 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2024-12-19 23:52:32 +0000"
     },
     "done": true
   },
@@ -5741,6 +5765,12 @@
   "vampirism:recipes/combat/weapontable/crossbow_arrow_spitfire": {
     "criteria": {
       "has_skill": "2024-12-19 23:10:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2024-12-19 23:52:32 +0000"
     },
     "done": true
   },
@@ -5849,6 +5879,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-19 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2024-12-19 23:52:32 +0000"
     },
     "done": true
   },
