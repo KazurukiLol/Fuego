@@ -817,6 +817,7 @@
       "minecraft:lush_caves": "2024-12-20 01:39:36 +0000",
       "minecraft:frozen_ocean": "2024-12-14 03:37:24 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-14 03:37:07 +0000",
+      "minecraft:flower_forest": "2024-12-20 03:56:21 +0000",
       "minecraft:deep_dark": "2024-12-14 03:57:07 +0000",
       "minecraft:meadow": "2024-12-14 04:11:02 +0000",
       "minecraft:plains": "2024-12-14 03:59:29 +0000"
@@ -7243,6 +7244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 03:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-20 03:36:10 +0000"
@@ -7255,15 +7262,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_the_recipe": "2024-12-20 03:35:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-12-20 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 03:52:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 03:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-20 03:56:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 03:52:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2024-12-20 03:52:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 03:52:21 +0000"
     },
     "done": true
   },
