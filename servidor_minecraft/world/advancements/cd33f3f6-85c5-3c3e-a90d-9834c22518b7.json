@@ -841,6 +841,7 @@
       "rocky_shrubland": "2024-12-14 03:27:01 +0000",
       "highland": "2024-12-15 22:27:06 +0000",
       "clover_patch": "2024-12-18 01:47:45 +0000",
+      "maple_woods": "2024-12-20 00:53:00 +0000",
       "orchard": "2024-12-14 20:12:47 +0000",
       "field": "2024-12-15 22:56:00 +0000",
       "coniferous_forest": "2024-12-14 03:38:02 +0000",
@@ -5966,9 +5967,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-20 01:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-20 00:26:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-20 00:42:21 +0000"
     },
     "done": true
   },
@@ -5996,6 +6009,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2024-12-20 01:04:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-20 00:26:54 +0000"
@@ -6011,6 +6030,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-20 00:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-20 01:03:37 +0000"
     },
     "done": true
   },
@@ -6044,6 +6069,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-20 01:04:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-20 00:27:02 +0000"
@@ -6056,6 +6087,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-20 00:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-20 00:27:02 +0000"
@@ -6065,6 +6102,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-12-20 00:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-20 00:38:23 +0000"
     },
     "done": true
   },

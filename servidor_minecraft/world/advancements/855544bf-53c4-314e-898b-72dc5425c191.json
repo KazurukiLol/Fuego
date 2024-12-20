@@ -2648,6 +2648,8 @@
   "croptopia:gather_food": {
     "criteria": {
       "ajvar_toast": "2024-12-20 00:10:21 +0000",
+      "grilled_oysters": "2024-12-20 00:59:04 +0000",
+      "toast": "2024-12-20 01:02:51 +0000",
       "calamari": "2024-12-14 20:50:31 +0000",
       "glowing_calamari": "2024-12-14 04:45:48 +0000"
     },
@@ -7004,9 +7006,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-20 00:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-20 00:53:29 +0000"
+    },
+    "done": true
+  },
   "croptopia:eatbig": {
     "criteria": {
       "eat_big": "2024-12-20 00:05:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2024-12-20 01:02:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2024-12-20 01:02:51 +0000"
     },
     "done": true
   },
@@ -7031,6 +7057,12 @@
   "vampirism:vampire/max_level": {
     "criteria": {
       "level": "2024-12-20 00:15:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grilled_oysters": {
+    "criteria": {
+      "has_oysters": "2024-12-20 00:59:04 +0000"
     },
     "done": true
   },

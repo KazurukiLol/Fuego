@@ -352,3 +352,171 @@
 [20Dec2024 00:35:34.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
 [20Dec2024 00:35:34.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
 [20Dec2024 00:35:35.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:57.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:57.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:57.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:57.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:58.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:58.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:58.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:58.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:58.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:58.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:58.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:58.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18385ms or 367 ticks behind
+[20Dec2024 00:35:58.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:59.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:59.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:59.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:59.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:59.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:35:59.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:36:00.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:36:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:36:00.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:36:21.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:36:21.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7849ms or 156 ticks behind
+[20Dec2024 00:36:28.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-671, y=7, z=-4709} BlockPos{x=-672, y=6, z=-4711}
+[20Dec2024 00:36:28.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-671, y=7, z=-4708} BlockPos{x=-672, y=6, z=-4711}
+[20Dec2024 00:36:28.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-670, y=7, z=-4708} BlockPos{x=-670, y=7, z=-4706}
+[20Dec2024 00:36:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:36:43.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:36:49.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12366ms or 247 ticks behind
+[20Dec2024 00:36:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:36:58.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:37:01.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:37:18.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14194ms or 283 ticks behind
+[20Dec2024 00:37:45.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12692ms or 253 ticks behind
+[20Dec2024 00:37:55.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 2690 entities]
+[20Dec2024 00:38:03.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:38:46.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to 1861.500000, 73.500000, -2046.500000]
+[20Dec2024 00:38:49.747] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/127721, l='ServerLevel[world]', x=1839.30, y=71.00, z=-2024.37] died, message: 'Scribe hit the ground too hard'
+[20Dec2024 00:38:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to -630.500000, 68.500000, -4743.500000]
+[20Dec2024 00:39:05.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:39:19.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:39:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:39:26.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:39:30.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:39:33.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:39:46.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:39:49.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:39:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:39:53.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:40:05.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:40:07.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:40:09.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:40:11.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:40:14.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:41:31.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
+[20Dec2024 00:41:43.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Graniter82a[/172.30.89.163:52309] logged in with entity id 132137 at (4083.466552734375, -11.232177019119263, 2072.2001953125)
+[20Dec2024 00:41:43.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a joined the game
+[20Dec2024 00:42:21.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Alex's Caves]
+[20Dec2024 00:42:36.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a lost connection: Timed out
+[20Dec2024 00:42:36.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a left the game
+[20Dec2024 00:43:31.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [It Belongs in a Museum]
+[20Dec2024 00:44:42.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
+[20Dec2024 00:45:18.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:45:21.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:45:24.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:45:27.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:46:00.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Kazuruki: Location (349.253986120224, -51.49936068058014, -3652.0) too far away from hit block BlockPos{x=349, y=-53, z=-3652}.
+[20Dec2024 00:46:15.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:46:17.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:46:20.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:46:34.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:46:38.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:46:41.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:46:46.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:46:49.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:46:52.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:46:58.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:03.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:09.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:21.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:24.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:29.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Awakened Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:31.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:35.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:40.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:45.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:49.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:53.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:47:56.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:48:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:48:04.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:48:07.771] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3840, y=-27, z=2276}
+[20Dec2024 00:48:08.011] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3840, y=-30, z=2276}
+[20Dec2024 00:48:08.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:48:11.108] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3840, y=-30, z=2276}
+[20Dec2024 00:48:11.265] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3841, y=-31, z=2276}
+[20Dec2024 00:48:11.602] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3842, y=-32, z=2276}
+[20Dec2024 00:48:11.856] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3841, y=-33, z=2276}
+[20Dec2024 00:48:14.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Supremium Essence] to Kazuruki]
+[20Dec2024 00:48:14.709] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3842, y=-30, z=2276}
+[20Dec2024 00:48:14.853] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3842, y=-31, z=2276}
+[20Dec2024 00:48:15.055] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3843, y=-32, z=2276}
+[20Dec2024 00:48:16.452] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3844, y=-31, z=2276}
+[20Dec2024 00:48:16.654] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3844, y=-32, z=2276}
+[20Dec2024 00:48:16.858] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3843, y=-30, z=2276}
+[20Dec2024 00:48:17.251] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3841, y=-30, z=2275}
+[20Dec2024 00:48:17.852] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3843, y=-31, z=2276}
+[20Dec2024 00:48:18.364] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3843, y=-33, z=2275}
+[20Dec2024 00:48:18.604] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=3843, y=-33, z=2276}
+[20Dec2024 00:48:23.544] [Server thread/ERROR] [coroutil/]: Exception trying to pathfind
+[20Dec2024 00:48:25.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Kazuruki]
+[20Dec2024 00:50:22.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[20Dec2024 00:51:27.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Flight Augment] to Kazuruki]
+[20Dec2024 00:52:08.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Unattuned Augment] to Kazuruki]
+[20Dec2024 00:52:36.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Chik3nBl4ck]
+[20Dec2024 00:53:34.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 352.500000, -52.500000, -3648.500000]
+[20Dec2024 00:53:54.112] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=4027, y=-22, z=2271}
+[20Dec2024 00:54:40.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Chik3nBl4ck to Kazuruki]
+[20Dec2024 00:56:36.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
+[20Dec2024 00:56:46.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Hearty Meal]
+[20Dec2024 00:56:46.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has reached the goal [Fully Stuffed]
+[20Dec2024 00:57:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [The Big Breakfast] to Kazuruki]
+[20Dec2024 00:59:02.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Grilled Oysters] to Kazuruki]
+[20Dec2024 00:59:20.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Grilled Oysters] to Kazuruki]
+[20Dec2024 00:59:22.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Grilled Oysters] to Kazuruki]
+[20Dec2024 00:59:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Anchovy Pizza] to Kazuruki]
+[20Dec2024 00:59:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Anchovy Pizza] to Kazuruki]
+[20Dec2024 00:59:27.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [The Big Breakfast] to Kazuruki]
+[20Dec2024 01:00:17.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Item Cable] to Kazuruki]
+[20Dec2024 01:00:39.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Supremium Furnace] to Kazuruki]
+[20Dec2024 01:01:24.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 371.500000, 64.500000, -3704.500000]
+[20Dec2024 01:02:02.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Nether Gobber Foo] to Kazuruki]
+[20Dec2024 01:02:03.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Nether Gobber Foo] to Kazuruki]
+[20Dec2024 01:02:03.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Nether Gobber Foo] to Kazuruki]
+[20Dec2024 01:02:03.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Nether Gobber Foo] to Kazuruki]
+[20Dec2024 01:02:03.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Nether Gobber Foo] to Kazuruki]
+[20Dec2024 01:03:02.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Passcode-protected Chest] to Kazuruki]
+[20Dec2024 01:03:13.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=59, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:13.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=59, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:13.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=59, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:13.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=59, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=59, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=55, z=-4818} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=55, z=-4818} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=55, z=-4818} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-480, y=55, z=-4818} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-481, y=52, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-481, y=52, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-481, y=52, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-481, y=52, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-481, y=52, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-481, y=52, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:03:14.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-481, y=52, z=-4819} BlockPos{x=-480, y=60, z=-4820}
+[20Dec2024 01:04:06.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Junior Summoner]
+[20Dec2024 01:04:20.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has reached the goal [Radiation Vibe]
+[20Dec2024 01:04:54.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[20Dec2024 01:04:55.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [Radiation Vibe]
+[20Dec2024 01:05:01.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Chik3nBl4ck to Sanity15]
+[20Dec2024 01:05:02.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has reached the goal [Radiation Vibe]
+[20Dec2024 01:05:04.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[20Dec2024 01:05:07.137] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/158752, l='ServerLevel[world]', x=-438.50, y=-10.00, z=-4772.50]
+[20Dec2024 01:05:19.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Uranium Fever]
+[20Dec2024 01:05:24.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Bath Bomb]
+[20Dec2024 01:05:26.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Uranium Fever]
+[20Dec2024 01:05:37.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Brains and Brawn]
+[20Dec2024 01:06:08.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Uranium Fever]
