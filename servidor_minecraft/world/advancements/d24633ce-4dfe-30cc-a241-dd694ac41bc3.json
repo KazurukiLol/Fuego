@@ -3439,7 +3439,8 @@
   "1_splatus:spellbound/weapon/a": {
     "criteria": {
       "dagger": "2024-12-15 03:12:16 +0000",
-      "endlight_bow": "2024-12-20 04:32:58 +0000"
+      "endlight_bow": "2024-12-20 04:32:58 +0000",
+      "end_excalibur": "2024-12-20 04:40:03 +0000"
     },
     "done": false
   },
@@ -8900,6 +8901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-12-20 04:39:55 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/rageblade": {
     "criteria": {
       "has_item": "2024-12-20 04:32:58 +0000"
@@ -8924,9 +8931,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-20 04:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2024-12-20 04:14:06 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/weapon/end_excalibur": {
+    "criteria": {
+      "end_excalibur": "2024-12-20 04:40:03 +0000"
     },
     "done": true
   },
