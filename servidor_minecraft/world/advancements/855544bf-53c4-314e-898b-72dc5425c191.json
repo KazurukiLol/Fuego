@@ -7139,6 +7139,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/ride_nuclear_bomb": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2024-12-20 01:58:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-12-20 01:36:14 +0000"

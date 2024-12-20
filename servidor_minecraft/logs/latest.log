@@ -11274,3 +11274,10 @@
 [20Dec2024 01:58:43.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 2.261584983743603,-19.57645414709735,13.134586821769517
 [20Dec2024 01:58:44.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 4.840608960912732,-13.853781519566933,16.173435966418765
 [20Dec2024 01:58:44.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 3.651827623636393,-19.6211459421985,13.287331882635044
+[20Dec2024 01:58:54.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 5468 entities]
+[20Dec2024 01:58:58.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25381ms or 507 ticks behind
+[20Dec2024 01:59:00.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Killed 97 entities]
+[20Dec2024 01:59:11.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was irradiated to death
+[20Dec2024 01:59:21.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was irradiated to death
+[20Dec2024 01:59:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Chik3nBl4ck to Sanity15]
+[20Dec2024 02:07:40.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to Chik3nBl4ck]
