@@ -798,6 +798,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-17 02:58:34 +0000",
+      "minecraft:deep_ocean": "2024-12-21 00:02:34 +0000",
       "minecraft:frozen_river": "2024-12-14 03:37:35 +0000",
       "minecraft:birch_forest": "2024-12-20 21:41:54 +0000",
       "minecraft:beach": "2024-12-14 20:55:26 +0000",
@@ -820,6 +821,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-17 21:17:58 +0000",
       "minecraft:snowy_beach": "2024-12-15 05:09:55 +0000",
       "minecraft:flower_forest": "2024-12-20 04:09:59 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-21 00:02:27 +0000",
       "minecraft:deep_dark": "2024-12-19 23:59:49 +0000",
       "minecraft:meadow": "2024-12-17 20:45:21 +0000",
       "minecraft:savanna": "2024-12-14 21:34:45 +0000",
@@ -4309,7 +4311,8 @@
   },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
-      "locate_underwater_small_ruins": "2024-12-15 05:19:59 +0000"
+      "locate_underwater_small_ruins": "2024-12-15 05:19:59 +0000",
+      "locate_underwater_city": "2024-12-21 00:02:39 +0000"
     },
     "done": false
   },
@@ -9116,9 +9119,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-21 00:02:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2024-12-20 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-21 00:02:43 +0000"
     },
     "done": true
   },
@@ -9140,6 +9155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-12-21 00:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2024-12-20 23:30:23 +0000"
@@ -9152,6 +9173,24 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-12-20 23:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-21 00:02:43 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_underwater_city": {
+    "criteria": {
+      "locate_underwater_city": "2024-12-21 00:02:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2024-12-20 23:49:34 +0000"
@@ -9161,6 +9200,18 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2024-12-20 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2024-12-21 00:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-12-21 00:02:43 +0000"
     },
     "done": true
   },

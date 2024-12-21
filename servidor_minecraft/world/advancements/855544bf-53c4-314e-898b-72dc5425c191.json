@@ -804,6 +804,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-14 21:59:53 +0000",
+      "minecraft:deep_ocean": "2024-12-21 00:07:51 +0000",
       "minecraft:frozen_river": "2024-12-14 03:49:02 +0000",
       "minecraft:birch_forest": "2024-12-15 05:19:39 +0000",
       "minecraft:beach": "2024-12-14 03:35:58 +0000",
@@ -7666,6 +7667,12 @@
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2024-12-20 23:00:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-21 00:08:10 +0000"
     },
     "done": true
   },

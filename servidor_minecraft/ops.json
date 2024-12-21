@@ -16,5 +16,17 @@
     "name": "Kazuruki",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d24633ce-4dfe-30cc-a241-dd694ac41bc3",
+    "name": "Chik3nBl4ck",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b3c99862-5a86-36da-9094-5f7217091498",
+    "name": "c",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
